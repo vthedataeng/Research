@@ -1,0 +1,1965 @@
+sheet_name,sheet_category,data_item,available
+0 Data item Availability,Data item Availability,2021 Census - List of Data Items by Database by Availability,No
+0 Data item Availability,Data item Availability,"ADCP Australian Defence Force Service, detailed",Yes
+0 Data item Availability,Data item Availability,ADFP Australian Defence Force Service,Yes
+0 Data item Availability,Data item Availability,AGE10P Age in Ten Year Groups,Yes
+0 Data item Availability,Data item Availability,AGE5P Age in Five Year Groups,Yes
+0 Data item Availability,Data item Availability,AGEP Age,Yes
+0 Data item Availability,Data item Availability,ANC1P Ancestry 1st Response,Yes
+0 Data item Availability,Data item Availability,ANC2P Ancestry 2nd Response,Yes
+0 Data item Availability,Data item Availability,ANCP Ancestry Multi Response,Yes
+0 Data item Availability,Data item Availability,ANCRP Ancestry One or Two Response Indicator,Yes
+0 Data item Availability,Data item Availability,ASSNP Core Activity Need for Assistance,Yes
+0 Data item Availability,Data item Availability,Aboriginal and Torres Strait Islander Peoples,No
+0 Data item Availability,Data item Availability,Age and Sex,No
+0 Data item Availability,Data item Availability,Aged Care Planning Regions (EN),No
+0 Data item Availability,Data item Availability,Aged Care Planning Regions (UR),No
+0 Data item Availability,Data item Availability,Australia (EN),Yes
+0 Data item Availability,Data item Availability,Australia (POW),No
+0 Data item Availability,Data item Availability,Australia (UR),Yes
+0 Data item Availability,Data item Availability,Australian Defence Force Service,No
+0 Data item Availability,Data item Availability,Australian Drainage Divisions (EN),Yes
+0 Data item Availability,Data item Availability,Australian Drainage Divisions (UR),Yes
+0 Data item Availability,Data item Availability,BEDD Number of Bedrooms in Private Dwelling,Yes
+0 Data item Availability,Data item Availability,BEDRD Number of Bedrooms in Private Dwelling (ranges),Yes
+0 Data item Availability,Data item Availability,BPFP Country of Birth of Mother,Yes
+0 Data item Availability,Data item Availability,BPLP Country of Birth of Person,Yes
+0 Data item Availability,Data item Availability,BPMP Country of Birth of Father,Yes
+0 Data item Availability,Data item Availability,BPPP Country of Birth of Parents,Yes
+0 Data item Availability,Data item Availability,C3SP Attainment of Certificate III or higher or Working Towards a Non-School Qualification,No
+0 Data item Availability,Data item Availability,CACF Count of All Children in Family,Yes
+0 Data item Availability,Data item Availability,CALTHD Count of Adults (15 years and over) with Selected Long-term Health Condition(s) in Household,Yes
+0 Data item Availability,Data item Availability,CCLTHD Count of Children with Selected Long-term Health Condition(s) in Household,Yes
+0 Data item Availability,Data item Availability,CDCAF Count of Dependent Children Under 15 in Family Temporarily Absent,Yes
+0 Data item Availability,Data item Availability,CDCF Count of Dependent Children in Family,Yes
+0 Data item Availability,Data item Availability,CDCUF Count of Dependent Children Under 15 in Family,Yes
+0 Data item Availability,Data item Availability,CDPP Community Development Program Participation,No
+0 Data item Availability,Data item Availability,CDSAF Count of Dependent Students (15-24 years) in Family Temporarily Absent,Yes
+0 Data item Availability,Data item Availability,CDSF Count of Dependent Students (15-24 years) in Family,Yes
+0 Data item Availability,Data item Availability,CHCAREP Unpaid Child Care,Yes
+0 Data item Availability,Data item Availability,CITP Australian Citizenship,Yes
+0 Data item Availability,Data item Availability,CLTHP Count of Selected Long-term Health Conditions,Yes
+0 Data item Availability,Data item Availability,CNDAF Count of Non-Dependent Children in Family Temporarily Absent,Yes
+0 Data item Availability,Data item Availability,CNDCF Count of Non-Dependent Children in Family,Yes
+0 Data item Availability,Data item Availability,COARASP Whether has Arthritis and Asthma,Yes
+0 Data item Availability,Data item Availability,COARDBP Whether has Arthritis and Diabetes,Yes
+0 Data item Availability,Data item Availability,COARHDP Whether has Arthritis and Heart Disease,Yes
+0 Data item Availability,Data item Availability,COARMHP Whether has Arthritis and Mental Health Condition,Yes
+0 Data item Availability,Data item Availability,COASHDP Whether has Asthma and Heart Disease,Yes
+0 Data item Availability,Data item Availability,COASLCP Whether has Asthma and Lung Condition,Yes
+0 Data item Availability,Data item Availability,COCNHDP Whether has Cancer and Heart Disease,Yes
+0 Data item Availability,Data item Availability,CODBHDP Whether has Diabetes and Heart Disease,Yes
+0 Data item Availability,Data item Availability,CODBKDP Whether has Diabetes and Kidney Disease,Yes
+0 Data item Availability,Data item Availability,COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+0 Data item Availability,Data item Availability,COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+0 Data item Availability,Data item Availability,COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+0 Data item Availability,Data item Availability,CPAD Count of Persons Temporarily Absent from Household,Yes
+0 Data item Availability,Data item Availability,CPAF Count of Persons Temporarily Absent from Family,Yes
+0 Data item Availability,Data item Availability,CPLTHD Count of Persons with Selected Long-term Health Condition(s) in Household,Yes
+0 Data item Availability,Data item Availability,CPLTHRD Count of Persons with Selected Long-term Health Condition(s) in Household (ranges),Yes
+0 Data item Availability,Data item Availability,CPRF Count of Persons in Family,Yes
+0 Data item Availability,Data item Availability,CTGP Child Type (including grandchildren),Yes
+0 Data item Availability,Data item Availability,CTPP Child Type,Yes
+0 Data item Availability,Data item Availability,Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+0 Data item Availability,Data item Availability,Commonwealth Electoral Divisions (2021 Boundaries) (UR),Yes
+0 Data item Availability,Data item Availability,Commonwealth Electoral Divisions (2024 Boundaries) (EN) - See note ->,No
+0 Data item Availability,Data item Availability,Commonwealth Electoral Divisions (2024 Boundaries) (UR) - See note ->,No
+0 Data item Availability,Data item Availability,Cultural Diversity,No
+0 Data item Availability,Data item Availability,DLOD Dwelling Location,Yes
+0 Data item Availability,Data item Availability,DOMP Unpaid Domestic Work: Number of Hours,Yes
+0 Data item Availability,Data item Availability,DTWP Distance to Work (ranges),No
+0 Data item Availability,Data item Availability,DWTD Dwelling Type,Yes
+0 Data item Availability,Data item Availability,Database,No
+0 Data item Availability,Data item Availability,Dataset,No
+0 Data item Availability,Data item Availability,Dataset release date,No
+0 Data item Availability,Data item Availability,Distance and Method of Travel to Work,No
+0 Data item Availability,Data item Availability,Dwelling and Household Characteristics,No
+0 Data item Availability,Data item Availability,"EETP Engagement in Employment, Education and Training",No
+0 Data item Availability,Data item Availability,EMFP Employment Flag,No
+0 Data item Availability,Data item Availability,EMPP Number of Employees,No
+0 Data item Availability,Data item Availability,ENGLP Proficiency in Spoken English,Yes
+0 Data item Availability,Data item Availability,Education and Qualifications,No
+0 Data item Availability,Data item Availability,Employment and Income,No
+0 Data item Availability,Data item Availability,Empowered Communities (EN),Yes
+0 Data item Availability,Data item Availability,Empowered Communities (UR),Yes
+0 Data item Availability,Data item Availability,FBLF Family Blending,Yes
+0 Data item Availability,Data item Availability,FGAF Main Type of Family Government Benefit Payment (administrative data),No
+0 Data item Availability,Data item Availability,FIAASF Total Family Income as Available (administrative data) (weekly),No
+0 Data item Availability,Data item Availability,FIDF Family Income Derivation Indicator,Yes
+0 Data item Availability,Data item Availability,FINAF Total Family Income (administrative data) (weekly),No
+0 Data item Availability,Data item Availability,FINASF Total Family Income as Stated (weekly),Yes
+0 Data item Availability,Data item Availability,FINF Total Family Income (weekly),Yes
+0 Data item Availability,Data item Availability,FMCF Family Composition,Yes
+0 Data item Availability,Data item Availability,FMGF Grandparent Families,Yes
+0 Data item Availability,Data item Availability,FNOF Family Number,Yes
+0 Data item Availability,Data item Availability,FPIP Parent Indicator,Yes
+0 Data item Availability,Data item Availability,FRLF Relationship Between Families,Yes
+0 Data item Availability,Data item Availability,FSAF Main Source of Family Income (administrative data),No
+0 Data item Availability,Data item Availability,Family Characteristics,No
+0 Data item Availability,Data item Availability,Family Characteristics and Composition,No
+0 Data item Availability,Data item Availability,Family Counts,No
+0 Data item Availability,Data item Availability,Family Income,No
+0 Data item Availability,Data item Availability,GNGP Public/Private Sector,No
+0 Data item Availability,Data item Availability,Geographical Areas (Enumeration),No
+0 Data item Availability,Data item Availability,Geographical Areas (Place of Work),No
+0 Data item Availability,Data item Availability,Geographical Areas (Usual Residence),No
+0 Data item Availability,Data item Availability,Greater Capital City Statistical Areas (EN),Yes
+0 Data item Availability,Data item Availability,Greater Capital City Statistical Areas (POW),No
+0 Data item Availability,Data item Availability,Greater Capital City Statistical Areas (UR),Yes
+0 Data item Availability,Data item Availability,HARTP Whether has Arthritis,Yes
+0 Data item Availability,Data item Availability,HASTP Whether has Asthma,Yes
+0 Data item Availability,Data item Availability,HCANP Whether has Cancer (including remission),Yes
+0 Data item Availability,Data item Availability,HCFMD Family Household Composition (Dwelling),Yes
+0 Data item Availability,Data item Availability,HCFMF Family Household Composition (Family),Yes
+0 Data item Availability,Data item Availability,HDEMP Whether has Dementia (including Alzheimer's),Yes
+0 Data item Availability,Data item Availability,HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+0 Data item Availability,Data item Availability,HEAP Level of Highest Educational Attainment,No
+0 Data item Availability,Data item Availability,HGAD Main Type of Household Government Benefit Payment (administrative data),No
+0 Data item Availability,Data item Availability,HHCD Household Composition,Yes
+0 Data item Availability,Data item Availability,HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+0 Data item Availability,Data item Availability,HIAASD Total Household Income as Available (administrative data) (weekly),No
+0 Data item Availability,Data item Availability,HIDD Household Income Derivation Indicator,Yes
+0 Data item Availability,Data item Availability,HIED Equivalised Total Household Income (weekly),Yes
+0 Data item Availability,Data item Availability,HINAD Total Household Income (administrative data) (weekly),No
+0 Data item Availability,Data item Availability,HINASD Total Household Income as Stated (weekly),Yes
+0 Data item Availability,Data item Availability,HIND Total Household Income (weekly),Yes
+0 Data item Availability,Data item Availability,HKIDP Whether has Kidney Disease,Yes
+0 Data item Availability,Data item Availability,HLTHP Whether has One or more Long-term Health Condition(s),Yes
+0 Data item Availability,Data item Availability,HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+0 Data item Availability,Data item Availability,HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+0 Data item Availability,Data item Availability,HOLHP Whether has Other Long-term Health Condition(s),Yes
+0 Data item Availability,Data item Availability,HOSD Housing Suitability,Yes
+0 Data item Availability,Data item Availability,HRSP Hours Worked,No
+0 Data item Availability,Data item Availability,HRWRP Hours Worked (ranges),No
+0 Data item Availability,Data item Availability,HSAD Main Source of Household Income (administrative data),No
+0 Data item Availability,Data item Availability,HSCP Highest Year of School Completed,Yes
+0 Data item Availability,Data item Availability,HSTRP Whether has had a Stroke,Yes
+0 Data item Availability,Data item Availability,Health,No
+0 Data item Availability,Data item Availability,Health Comorbidities,No
+0 Data item Availability,Data item Availability,Homelessness Estimates,No
+0 Data item Availability,Data item Availability,Household Income and Housing Costs,No
+0 Data item Availability,Data item Availability,IEO Deciles at LGA Level (Area),No
+0 Data item Availability,Data item Availability,IEO Deciles at LGA Level (Pop),No
+0 Data item Availability,Data item Availability,IEO Deciles at POA Level (Area),No
+0 Data item Availability,Data item Availability,IEO Deciles at POA Level (Pop),No
+0 Data item Availability,Data item Availability,IEO Deciles at SA1 Level (Area),No
+0 Data item Availability,Data item Availability,IEO Deciles at SA1 Level (Pop),No
+0 Data item Availability,Data item Availability,IEO Deciles at SA2 Level (Area),No
+0 Data item Availability,Data item Availability,IEO Deciles at SA2 Level (Pop),No
+0 Data item Availability,Data item Availability,IEO Deciles at SAL Level (Area),No
+0 Data item Availability,Data item Availability,IEO Deciles at SAL Level (Pop),No
+0 Data item Availability,Data item Availability,IER Deciles at LGA Level (Area),No
+0 Data item Availability,Data item Availability,IER Deciles at LGA Level (Pop),No
+0 Data item Availability,Data item Availability,IER Deciles at POA Level (Area),No
+0 Data item Availability,Data item Availability,IER Deciles at POA Level (Pop),No
+0 Data item Availability,Data item Availability,IER Deciles at SA1 Level (Area),No
+0 Data item Availability,Data item Availability,IER Deciles at SA1 Level (Pop),No
+0 Data item Availability,Data item Availability,IER Deciles at SA2 Level (Area),No
+0 Data item Availability,Data item Availability,IER Deciles at SA2 Level (Pop),No
+0 Data item Availability,Data item Availability,IER Deciles at SAL Level (Area),No
+0 Data item Availability,Data item Availability,IER Deciles at SAL Level (Pop),No
+0 Data item Availability,Data item Availability,IFAGEP Imputation Flag for Age,Yes
+0 Data item Availability,Data item Availability,IFDTWP Imputed Distance to Work,No
+0 Data item Availability,Data item Availability,IFMSTP Imputation Flag for Registered Marital Status,Yes
+0 Data item Availability,Data item Availability,IFNMFD Imputation Flag for Number of Males and Females in Dwelling,Yes
+0 Data item Availability,Data item Availability,IFPOWP Imputation Flag for Place of Work,No
+0 Data item Availability,Data item Availability,IFPURP Imputation Flag for Place of Usual Residence,Yes
+0 Data item Availability,Data item Availability,IFSEXP Imputation Flag for Sex,Yes
+0 Data item Availability,Data item Availability,IGAP Main Type of Personal Government Benefit Payment (administrative data),No
+0 Data item Availability,Data item Availability,IHAD Quantiles (Household-based),No
+0 Data item Availability,Data item Availability,INCAP Total Personal Income (administrative data) (weekly),No
+0 Data item Availability,Data item Availability,INCP Total Personal Income (weekly),Yes
+0 Data item Availability,Data item Availability,INDP Industry of Employment,No
+0 Data item Availability,Data item Availability,INGDWTD Indigenous Household Indicator,Yes
+0 Data item Availability,Data item Availability,INGF Aboriginal and Torres Strait Islander Family Indicator,Yes
+0 Data item Availability,Data item Availability,INGP Indigenous Status,Yes
+0 Data item Availability,Data item Availability,IRSAD Deciles (Household),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at LGA Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at LGA Level (Pop),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at POA Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at POA Level (Pop),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at SA1 Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at SA1 Level (Pop),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at SA2 Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at SA2 Level (Pop),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at SAL Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Deciles at SAL Level (Pop),No
+0 Data item Availability,Data item Availability,IRSAD Quartiles (Household),No
+0 Data item Availability,Data item Availability,IRSAD Quartiles at LGA Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Quartiles at POA Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Quartiles at SA1 Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Quartiles at SA2 Level (Area),No
+0 Data item Availability,Data item Availability,IRSAD Quartiles at SAL Level (Area),No
+0 Data item Availability,Data item Availability,IRSD Deciles at LGA Level (Area),No
+0 Data item Availability,Data item Availability,IRSD Deciles at LGA Level (Pop),No
+0 Data item Availability,Data item Availability,IRSD Deciles at POA Level (Area),No
+0 Data item Availability,Data item Availability,IRSD Deciles at POA Level (Pop),No
+0 Data item Availability,Data item Availability,IRSD Deciles at SA1 Level (Area),No
+0 Data item Availability,Data item Availability,IRSD Deciles at SA1 Level (Pop),No
+0 Data item Availability,Data item Availability,IRSD Deciles at SA2 Level (Area),No
+0 Data item Availability,Data item Availability,IRSD Deciles at SA2 Level (Pop),No
+0 Data item Availability,Data item Availability,IRSD Deciles at SAL Level (Area),No
+0 Data item Availability,Data item Availability,IRSD Deciles at SAL Level (Pop),No
+0 Data item Availability,Data item Availability,ISAP Main Source of Personal Income (administrative data),No
+0 Data item Availability,Data item Availability,Indigenous Structure (EN),Yes
+0 Data item Availability,Data item Availability,Indigenous Structure (UR),Yes
+0 Data item Availability,Data item Availability,Items available from 1st release are indicated by *,No
+0 Data item Availability,Data item Availability,Items available from 2024-2025 are indicated by ****,No
+0 Data item Availability,Data item Availability,Items available from 2nd release are indicated by **,No
+0 Data item Availability,Data item Availability,Items available from 3rd release are indicated by ***,No
+0 Data item Availability,Data item Availability,LANP Language Used at Home,Yes
+0 Data item Availability,Data item Availability,LFFP Labour Force Participation Flag,No
+0 Data item Availability,Data item Availability,LFHRP Labour Force Status and Hours Worked Not Stated,No
+0 Data item Availability,Data item Availability,LFSF Labour Force Status of Parents/Partners in Families,No
+0 Data item Availability,Data item Availability,LFSP Labour Force Status,No
+0 Data item Availability,Data item Availability,LLDD Landlord Type,Yes
+0 Data item Availability,Data item Availability,LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+0 Data item Availability,Data item Availability,LTHP Type of Long-term Health Condition,Yes
+0 Data item Availability,Data item Availability,List of data items,No
+0 Data item Availability,Data item Availability,Local Government Areas (2021 Boundaries) (EN),Yes
+0 Data item Availability,Data item Availability,Local Government Areas (2021 Boundaries) (POW),No
+0 Data item Availability,Data item Availability,Local Government Areas (2021 Boundaries) (UR),Yes
+0 Data item Availability,Data item Availability,Local Government Areas (2022 Boundaries) (EN),No
+0 Data item Availability,Data item Availability,Local Government Areas (2022 Boundaries) (POW),No
+0 Data item Availability,Data item Availability,Local Government Areas (2022 Boundaries) (UR),No
+0 Data item Availability,Data item Availability,Local Government Areas of Usual Residence Five Years Ago,No
+0 Data item Availability,Data item Availability,Local Government Areas of Usual Residence One Year Ago,No
+0 Data item Availability,Data item Availability,Long-term Health Conditions,No
+0 Data item Availability,Data item Availability,MAID Mortgage Affordability Indicator,Yes
+0 Data item Availability,Data item Availability,MB by Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+0 Data item Availability,Data item Availability,MB by Commonwealth Electoral Divisions (2021 Boundaries) (UR),Yes
+0 Data item Availability,Data item Availability,MB by Greater Capital City Statistical Areas (EN),Yes
+0 Data item Availability,Data item Availability,MB by Greater Capital City Statistical Areas (UR),Yes
+0 Data item Availability,Data item Availability,MB by Indigenous Structure (EN),Yes
+0 Data item Availability,Data item Availability,MB by Indigenous Structure (UR),Yes
+0 Data item Availability,Data item Availability,MB by Local Government Areas (2021 Boundaries) (EN),Yes
+0 Data item Availability,Data item Availability,MB by Local Government Areas (2021 Boundaries) (UR),Yes
+0 Data item Availability,Data item Availability,MB by Local Government Areas (2022 Boundaries) (EN),No
+0 Data item Availability,Data item Availability,MB by Local Government Areas (2022 Boundaries) (UR),No
+0 Data item Availability,Data item Availability,MB by Main Statistical Area Structure (Main ASGS) (EN),Yes
+0 Data item Availability,Data item Availability,MB by Main Statistical Area Structure (Main ASGS) (UR),Yes
+0 Data item Availability,Data item Availability,MB by Postal Areas (EN),Yes
+0 Data item Availability,Data item Availability,MB by Postal Areas (UR),Yes
+0 Data item Availability,Data item Availability,MB by Remoteness Areas (EN),No
+0 Data item Availability,Data item Availability,MB by Remoteness Areas (National) (EN),No
+0 Data item Availability,Data item Availability,MB by Remoteness Areas (National) (UR),No
+0 Data item Availability,Data item Availability,MB by Remoteness Areas (UR),No
+0 Data item Availability,Data item Availability,MB by Section of State/UCLs (EN),No
+0 Data item Availability,Data item Availability,MB by Section of State/UCLs (UR),No
+0 Data item Availability,Data item Availability,MB by Significant Urban Areas (EN),No
+0 Data item Availability,Data item Availability,MB by Significant Urban Areas (UR),No
+0 Data item Availability,Data item Availability,MB by State Electoral Divisions (2021 Boundaries) (EN),Yes
+0 Data item Availability,Data item Availability,MB by State Electoral Divisions (2021 Boundaries) (UR),Yes
+0 Data item Availability,Data item Availability,MB by State Electoral Divisions (2022 Boundaries) (EN),No
+0 Data item Availability,Data item Availability,MB by State Electoral Divisions (2022 Boundaries) (UR),No
+0 Data item Availability,Data item Availability,MB by State Electoral Divisions (2024 Boundaries) (EN),No
+0 Data item Availability,Data item Availability,MB by State Electoral Divisions (2024 Boundaries) (UR),No
+0 Data item Availability,Data item Availability,MB by Suburbs and Localities (EN),Yes
+0 Data item Availability,Data item Availability,MB by Suburbs and Localities (UR),Yes
+0 Data item Availability,Data item Availability,MDCP Social Marital Status,Yes
+0 Data item Availability,Data item Availability,MRED Mortgage Repayments (monthly) Dollar Values,Yes
+0 Data item Availability,Data item Availability,MRERD Mortgage Repayments (monthly) Ranges,Yes
+0 Data item Availability,Data item Availability,MSTP Registered Marital Status,Yes
+0 Data item Availability,Data item Availability,MTW06P Method of Travel to Work (6 travel modes),No
+0 Data item Availability,Data item Availability,MTW15P Method of Travel to Work (15 travel modes),No
+0 Data item Availability,Data item Availability,MTWP Method of Travel to Work,No
+0 Data item Availability,Data item Availability,MV1D Household One Year Mobility Indicator,No
+0 Data item Availability,Data item Availability,MV5D Household Five Year Mobility Indicator,No
+0 Data item Availability,Data item Availability,Main Statistical Area Structure (Main ASGS) (EN),Yes
+0 Data item Availability,Data item Availability,Main Statistical Area Structure (Main ASGS) (POW),No
+0 Data item Availability,Data item Availability,Main Statistical Area Structure (Main ASGS) (UR),Yes
+0 Data item Availability,Data item Availability,NPDD Type of Non-Private Dwelling,Yes
+0 Data item Availability,Data item Availability,NPRD Number of Persons Usually Resident in Dwelling,Yes
+0 Data item Availability,Data item Availability,National Reporting Indicators,No
+0 Data item Availability,Data item Availability,Natural Resource Management Regions (EN),Yes
+0 Data item Availability,Data item Availability,Natural Resource Management Regions (UR),Yes
+0 Data item Availability,Data item Availability,Need for Assistance,No
+0 Data item Availability,Data item Availability,OCCEV1P Occupation Experimental Update Version 1,No
+0 Data item Availability,Data item Availability,OCCP Occupation,No
+0 Data item Availability,Data item Availability,OCSKEV1P Occupation Skill Level Experimental Update Version 1,No
+0 Data item Availability,Data item Availability,OCSKP Occupation Skill Level,No
+0 Data item Availability,Data item Availability,OPGP Homelessness Operational Groups,No
+0 Data item Availability,Data item Availability,PUR1P Place of Usual Residence One Year Ago,No
+0 Data item Availability,Data item Availability,PUR5P Place of Usual Residence Five Years Ago,No
+0 Data item Availability,Data item Availability,Persons in Household with a Long-term Health Condition,No
+0 Data item Availability,Data item Availability,Postal Areas (EN),Yes
+0 Data item Availability,Data item Availability,Postal Areas (UR),Yes
+0 Data item Availability,Data item Availability,Primary Health Networks (2017 Boundaries) (EN),Yes
+0 Data item Availability,Data item Availability,Primary Health Networks (2017 Boundaries) (UR),Yes
+0 Data item Availability,Data item Availability,Primary Health Networks (2023 Boundaries) (EN),No
+0 Data item Availability,Data item Availability,Primary Health Networks (2023 Boundaries) (UR),No
+0 Data item Availability,Data item Availability,QALFP Non-School Qualification: Field of Study,No
+0 Data item Availability,Data item Availability,QALLP Non-School Qualification: Level of Education,No
+0 Data item Availability,Data item Availability,Quantiles at LGA Level (Area),No
+0 Data item Availability,Data item Availability,Quantiles at LGA Level (Population),No
+0 Data item Availability,Data item Availability,Quantiles at POA Level (Area),No
+0 Data item Availability,Data item Availability,Quantiles at POA Level (Population),No
+0 Data item Availability,Data item Availability,Quantiles at SA1 Level (Area),No
+0 Data item Availability,Data item Availability,Quantiles at SA1 Level (Population),No
+0 Data item Availability,Data item Availability,Quantiles at SA2 Level (Area),No
+0 Data item Availability,Data item Availability,Quantiles at SA2 Level (Population),No
+0 Data item Availability,Data item Availability,Quantiles at SAL Level (Area),No
+0 Data item Availability,Data item Availability,Quantiles at SAL Level (Population),No
+0 Data item Availability,Data item Availability,RAID Rent Affordability Indicator,Yes
+0 Data item Availability,Data item Availability,RELP Religious Affiliation,Yes
+0 Data item Availability,Data item Availability,RLCP Relationship as Reported for Couples,Yes
+0 Data item Availability,Data item Availability,RLGP Relationship in Household (including grandchildren),Yes
+0 Data item Availability,Data item Availability,RLHP Relationship in Household,Yes
+0 Data item Availability,Data item Availability,RLNP Residential Status in a Non-Private Dwelling,Yes
+0 Data item Availability,Data item Availability,RNTD Rent (weekly) Dollar Values,Yes
+0 Data item Availability,Data item Availability,RNTRD Rent (weekly) Ranges,Yes
+0 Data item Availability,Data item Availability,RPIP Family/Household Reference Person Indicator,Yes
+0 Data item Availability,Data item Availability,Relationships and Children,No
+0 Data item Availability,Data item Availability,Remoteness Areas (EN),No
+0 Data item Availability,Data item Availability,Remoteness Areas (National) (EN),No
+0 Data item Availability,Data item Availability,Remoteness Areas (National) (UR),No
+0 Data item Availability,Data item Availability,Remoteness Areas (UR),No
+0 Data item Availability,Data item Availability,SA1 by Greater Capital City Statistical Areas (EN),Yes
+0 Data item Availability,Data item Availability,SA1 by Greater Capital City Statistical Areas (UR),Yes
+0 Data item Availability,Data item Availability,SA1 by Indigenous Structure (EN),Yes
+0 Data item Availability,Data item Availability,SA1 by Indigenous Structure (UR),Yes
+0 Data item Availability,Data item Availability,SA1 by Main Statistical Area Structure (Main ASGS) (EN),Yes
+0 Data item Availability,Data item Availability,SA1 by Main Statistical Area Structure (Main ASGS) (UR),Yes
+0 Data item Availability,Data item Availability,SA1 by Remoteness Areas (EN),No
+0 Data item Availability,Data item Availability,SA1 by Remoteness Areas (National) (EN),No
+0 Data item Availability,Data item Availability,SA1 by Remoteness Areas (National) (UR),No
+0 Data item Availability,Data item Availability,SA1 by Remoteness Areas (UR),No
+0 Data item Availability,Data item Availability,SA1 by Section of State/UCLs (EN),No
+0 Data item Availability,Data item Availability,SA1 by Section of State/UCLs (UR),No
+0 Data item Availability,Data item Availability,SA1 by Significant Urban Areas (EN),No
+0 Data item Availability,Data item Availability,SA1 by Significant Urban Areas (UR),No
+0 Data item Availability,Data item Availability,SEIFA Quantiles (Area-based) WARNING: Area quantiles must be used with same geography type,No
+0 Data item Availability,Data item Availability,SEIFA Quantiles (Population-based) WARNING: Population quantiles must be used with same geography type,No
+0 Data item Availability,Data item Availability,SEXP Sex,Yes
+0 Data item Availability,Data item Availability,SIEMP Status in Employment,No
+0 Data item Availability,Data item Availability,SLPP Sex of Lone Parent,Yes
+0 Data item Availability,Data item Availability,SPIP Spouse/Partner Indicator,Yes
+0 Data item Availability,Data item Availability,SPLF Location of Spouse,Yes
+0 Data item Availability,Data item Availability,SSCF Same-Sex Couple Indicator,Yes
+0 Data item Availability,Data item Availability,STRD Dwelling Structure,Yes
+0 Data item Availability,Data item Availability,STUP Full-Time/Part-Time Student Status,Yes
+0 Data item Availability,Data item Availability,SVFP Level of Workforce Participation Survey Comparison Flag,No
+0 Data item Availability,Data item Availability,Section of State/Urban Centres and Localities (EN),No
+0 Data item Availability,Data item Availability,Section of State/Urban Centres and Localities (UR),No
+0 Data item Availability,Data item Availability,Significant Urban Areas (EN),No
+0 Data item Availability,Data item Availability,Significant Urban Areas (UR),No
+0 Data item Availability,Data item Availability,State Electoral Divisions (2021 Boundaries) (EN),Yes
+0 Data item Availability,Data item Availability,State Electoral Divisions (2021 Boundaries) (UR),Yes
+0 Data item Availability,Data item Availability,State Electoral Divisions (2022 Boundaries) (EN),No
+0 Data item Availability,Data item Availability,State Electoral Divisions (2022 Boundaries) (UR),No
+0 Data item Availability,Data item Availability,State Electoral Divisions (2024 Boundaries) (EN),No
+0 Data item Availability,Data item Availability,State Electoral Divisions (2024 Boundaries) (UR),No
+0 Data item Availability,Data item Availability,Suburbs and Localities (EN),Yes
+0 Data item Availability,Data item Availability,Suburbs and Localities (UR),Yes
+0 Data item Availability,Data item Availability,TEND Tenure Type,Yes
+0 Data item Availability,Data item Availability,TENLLD Tenure and Landlord Type,Yes
+0 Data item Availability,Data item Availability,TISP Number of Children Ever Born,Yes
+0 Data item Availability,Data item Availability,TISRP Number of Children Ever Born (ranges),Yes
+0 Data item Availability,Data item Availability,TYPP Type of Educational Institution Attending,Yes
+0 Data item Availability,Data item Availability,TYSTAP Educational Institution: Attendee Status,Yes
+0 Data item Availability,Data item Availability,UAI1P Usual Address One Year Ago Indicator,No
+0 Data item Availability,Data item Availability,UAI5P Usual Address Five Years Ago Indicator,No
+0 Data item Availability,Data item Availability,UAICP Usual Address Indicator Census Night,Yes
+0 Data item Availability,Data item Availability,UEFP Unemployment Flag,No
+0 Data item Availability,Data item Availability,"UNCAREP Unpaid Assistance to a Person with a Disability, Health Condition, or due to Old Age",Yes
+0 Data item Availability,Data item Availability,Unpaid Work and Care,No
+0 Data item Availability,Data item Availability,Usual Address and Internal Migration,No
+0 Data item Availability,Data item Availability,VEHD Number of Motor Vehicles,Yes
+0 Data item Availability,Data item Availability,VEHRD Number of Motor Vehicles (ranges),Yes
+0 Data item Availability,Data item Availability,VOLWP Voluntary Work for an Organisation or Group,Yes
+0 Data item Availability,Data item Availability,WTNSQP People With or Working Towards a Non-school Qualification,No
+0 Data item Availability,Data item Availability,YARP Year of Arrival in Australia,Yes
+0 Data item Availability,Data item Availability,YARRP Year of Arrival in Australia (ranges),Yes
+0 Data item Availability,Data item Availability,YR12C2P Attainment of Year 12 or Certificate II or higher,No
+0 Data item Availability,Data item Availability,YR12C3P Attainment of Year 12 or Certificate III or higher,No
+1 Cultural Diversity,Cultural Diversity,ADFP Australian Defence Force Service,Yes
+1 Cultural Diversity,Cultural Diversity,AGE10P Age in Ten Year Groups,Yes
+1 Cultural Diversity,Cultural Diversity,AGE5P Age in Five Year Groups,Yes
+1 Cultural Diversity,Cultural Diversity,AGEP Age,Yes
+1 Cultural Diversity,Cultural Diversity,ANC1P Ancestry 1st Response,Yes
+1 Cultural Diversity,Cultural Diversity,ANC2P Ancestry 2nd Response,Yes
+1 Cultural Diversity,Cultural Diversity,ANCP Ancestry Multi Response,Yes
+1 Cultural Diversity,Cultural Diversity,ANCRP Ancestry One or Two Response Indicator,Yes
+1 Cultural Diversity,Cultural Diversity,ASSNP Core Activity Need for Assistance,Yes
+1 Cultural Diversity,Cultural Diversity,Aboriginal and Torres Strait Islander Peoples,No
+1 Cultural Diversity,Cultural Diversity,Age and Sex,No
+1 Cultural Diversity,Cultural Diversity,Australia (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Australian Defence Force Service,No
+1 Cultural Diversity,Cultural Diversity,Australian Drainage Divisions (UR),Yes
+1 Cultural Diversity,Cultural Diversity,BPFP Country of Birth of Mother,Yes
+1 Cultural Diversity,Cultural Diversity,BPLP Country of Birth of Person,Yes
+1 Cultural Diversity,Cultural Diversity,BPMP Country of Birth of Father,Yes
+1 Cultural Diversity,Cultural Diversity,BPPP Country of Birth of Parents,Yes
+1 Cultural Diversity,Cultural Diversity,CHCAREP Unpaid Child Care,Yes
+1 Cultural Diversity,Cultural Diversity,CITP Australian Citizenship,Yes
+1 Cultural Diversity,Cultural Diversity,CLTHP Count of Selected Long-term Health Conditions,Yes
+1 Cultural Diversity,Cultural Diversity,COARASP Whether has Arthritis and Asthma,Yes
+1 Cultural Diversity,Cultural Diversity,COARDBP Whether has Arthritis and Diabetes,Yes
+1 Cultural Diversity,Cultural Diversity,COARHDP Whether has Arthritis and Heart Disease,Yes
+1 Cultural Diversity,Cultural Diversity,COARMHP Whether has Arthritis and Mental Health Condition,Yes
+1 Cultural Diversity,Cultural Diversity,COASHDP Whether has Asthma and Heart Disease,Yes
+1 Cultural Diversity,Cultural Diversity,COASLCP Whether has Asthma and Lung Condition,Yes
+1 Cultural Diversity,Cultural Diversity,COCNHDP Whether has Cancer and Heart Disease,Yes
+1 Cultural Diversity,Cultural Diversity,CODBHDP Whether has Diabetes and Heart Disease,Yes
+1 Cultural Diversity,Cultural Diversity,CODBKDP Whether has Diabetes and Kidney Disease,Yes
+1 Cultural Diversity,Cultural Diversity,COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+1 Cultural Diversity,Cultural Diversity,COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+1 Cultural Diversity,Cultural Diversity,COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+1 Cultural Diversity,Cultural Diversity,CTPP Child Type,Yes
+1 Cultural Diversity,Cultural Diversity,Commonwealth Electoral Divisions (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Cultural Diversity,No
+1 Cultural Diversity,Cultural Diversity,DOMP Unpaid Domestic Work: Number of Hours,Yes
+1 Cultural Diversity,Cultural Diversity,ENGLP Proficiency in Spoken English,Yes
+1 Cultural Diversity,Cultural Diversity,Employment and Income,No
+1 Cultural Diversity,Cultural Diversity,Empowered Communities (UR),Yes
+1 Cultural Diversity,Cultural Diversity,FPIP Parent Indicator,Yes
+1 Cultural Diversity,Cultural Diversity,Greater Capital City Statistical Areas (UR),Yes
+1 Cultural Diversity,Cultural Diversity,HARTP Whether has Arthritis,Yes
+1 Cultural Diversity,Cultural Diversity,HASTP Whether has Asthma,Yes
+1 Cultural Diversity,Cultural Diversity,HCANP Whether has Cancer (including remission),Yes
+1 Cultural Diversity,Cultural Diversity,HDEMP Whether has Dementia (including Alzheimer's),Yes
+1 Cultural Diversity,Cultural Diversity,HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+1 Cultural Diversity,Cultural Diversity,HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+1 Cultural Diversity,Cultural Diversity,HKIDP Whether has Kidney Disease,Yes
+1 Cultural Diversity,Cultural Diversity,HLTHP Whether has One or more Long-term Health Condition(s),Yes
+1 Cultural Diversity,Cultural Diversity,HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+1 Cultural Diversity,Cultural Diversity,HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+1 Cultural Diversity,Cultural Diversity,HOLHP Whether has Other Long-term Health Condition(s),Yes
+1 Cultural Diversity,Cultural Diversity,HSTRP Whether has had a Stroke,Yes
+1 Cultural Diversity,Cultural Diversity,Health,No
+1 Cultural Diversity,Cultural Diversity,Health Comorbidities,No
+1 Cultural Diversity,Cultural Diversity,IFAGEP Imputation Flag for Age,Yes
+1 Cultural Diversity,Cultural Diversity,IFMSTP Imputation Flag for Registered Marital Status,Yes
+1 Cultural Diversity,Cultural Diversity,IFSEXP Imputation Flag for Sex,Yes
+1 Cultural Diversity,Cultural Diversity,INCP Total Personal Income (weekly),Yes
+1 Cultural Diversity,Cultural Diversity,INGP Indigenous Status,Yes
+1 Cultural Diversity,Cultural Diversity,Indigenous Structure (UR),Yes
+1 Cultural Diversity,Cultural Diversity,LANP Language Used at Home,Yes
+1 Cultural Diversity,Cultural Diversity,LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+1 Cultural Diversity,Cultural Diversity,LTHP Type of Long-term Health Condition,Yes
+1 Cultural Diversity,Cultural Diversity,Local Government Areas (2021 Boundaries) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Local Government Areas (2022 Boundaries) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Long-term Health Conditions,No
+1 Cultural Diversity,Cultural Diversity,MDCP Social Marital Status,Yes
+1 Cultural Diversity,Cultural Diversity,MSTP Registered Marital Status,Yes
+1 Cultural Diversity,Cultural Diversity,Main Statistical Area Structure (Main ASGS) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Natural Resource Management Regions (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Need for Assistance,No
+1 Cultural Diversity,Cultural Diversity,Postal Areas (UR),Yes
+1 Cultural Diversity,Cultural Diversity,RELP Religious Affiliation,Yes
+1 Cultural Diversity,Cultural Diversity,RLCP Relationship as Reported for Couples,Yes
+1 Cultural Diversity,Cultural Diversity,RLHP Relationship in Household,Yes
+1 Cultural Diversity,Cultural Diversity,RPIP Family/Household Reference Person Indicator,Yes
+1 Cultural Diversity,Cultural Diversity,Relationships and Children,No
+1 Cultural Diversity,Cultural Diversity,Remoteness Areas (National) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Remoteness Areas (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SA1 by Greater Capital City Statistical Areas (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SA1 by Indigenous Structure (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SA1 by Main Statistical Area Structure (Main ASGS) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SA1 by Remoteness Areas (National) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SA1 by Remoteness Areas (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SA1 by Section of State/UCLs (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SA1 by Significant Urban Areas (UR),Yes
+1 Cultural Diversity,Cultural Diversity,SEXP Sex,Yes
+1 Cultural Diversity,Cultural Diversity,SPIP Spouse/Partner Indicator,Yes
+1 Cultural Diversity,Cultural Diversity,Section of State/Urban Centres and Localities (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Significant Urban Areas (UR),Yes
+1 Cultural Diversity,Cultural Diversity,State Electoral Divisions (2021 Boundaries) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,State Electoral Divisions (2022 Boundaries) (UR),Yes
+1 Cultural Diversity,Cultural Diversity,Suburbs and Localities (UR),Yes
+1 Cultural Diversity,Cultural Diversity,TISRP Number of Children Ever Born (ranges),Yes
+1 Cultural Diversity,Cultural Diversity,"UNCAREP Unpaid Assistance to a Person with a Disability, Health Condition, or due to Old Age",Yes
+1 Cultural Diversity,Cultural Diversity,Unpaid Work and Care,No
+1 Cultural Diversity,Cultural Diversity,YARRP Year of Arrival in Australia (ranges),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res","ADCP Australian Defence Force Service, detailed",Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",ADFP Australian Defence Force Service,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",AGE10P Age in Ten Year Groups,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",AGE5P Age in Five Year Groups,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",AGEP Age,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",ANC1P Ancestry 1st Response,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",ANC2P Ancestry 2nd Response,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",ANCP Ancestry Multi Response,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",ASSNP Core Activity Need for Assistance,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Aboriginal and Torres Strait Islander Peoples,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Age and Sex,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Aged Care Planning Regions (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Australia (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Australian Defence Force Service,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Australian Drainage Divisions (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",BPFP Country of Birth of Mother,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",BPLP Country of Birth of Person,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",BPMP Country of Birth of Father,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",BPPP Country of Birth of Parents,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",C3SP Attainment of Certificate III or higher or Working Towards a Non-School Qualification,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CDPP Community Development Program Participation,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CHCAREP Unpaid Child Care,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CITP Australian Citizenship,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CLTHP Count of Selected Long-term Health Conditions,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COARASP Whether has Arthritis and Asthma,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COARDBP Whether has Arthritis and Diabetes,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COARHDP Whether has Arthritis and Heart Disease,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COARMHP Whether has Arthritis and Mental Health Condition,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COASHDP Whether has Asthma and Heart Disease,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COASLCP Whether has Asthma and Lung Condition,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COCNHDP Whether has Cancer and Heart Disease,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CODBHDP Whether has Diabetes and Heart Disease,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CODBKDP Whether has Diabetes and Kidney Disease,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CTGP Child Type (including grandchildren),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",CTPP Child Type,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Commonwealth Electoral Divisions (2021 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Commonwealth Electoral Divisions (2024 Boundaries) (UR) - See note ->,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Cultural Diversity,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",DOMP Unpaid Domestic Work: Number of Hours,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Distance and Method of Travel to Work,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Dwelling and Household Characteristics,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res","EETP Engagement in Employment, Education and Training",Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",EMFP Employment Flag,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",EMPP Number of Employees,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",ENGLP Proficiency in Spoken English,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Education and Qualifications,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Employment and Income,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Empowered Communities (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",FPIP Parent Indicator,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",GNGP Public/Private Sector,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Greater Capital City Statistical Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HARTP Whether has Arthritis,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HASTP Whether has Asthma,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HCANP Whether has Cancer (including remission),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HDEMP Whether has Dementia (including Alzheimer's),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HEAP Level of Highest Educational Attainment,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HKIDP Whether has Kidney Disease,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HLTHP Whether has One or more Long-term Health Condition(s),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HOLHP Whether has Other Long-term Health Condition(s),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HRSP Hours Worked,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HRWRP Hours Worked (ranges),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HSCP Highest Year of School Completed,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",HSTRP Whether has had a Stroke,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Health,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Health Comorbidities,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at LGA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at LGA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at POA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at POA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at SA1 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at SA1 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at SA2 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at SA2 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at SAL Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IEO Deciles at SAL Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at LGA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at LGA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at POA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at POA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at SA1 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at SA1 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at SA2 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at SA2 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at SAL Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IER Deciles at SAL Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IFAGEP Imputation Flag for Age,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IFMSTP Imputation Flag for Registered Marital Status,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IFPURP Imputation Flag for Place of Usual Residence,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IFSEXP Imputation Flag for Sex,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IGAP Main Type of Personal Government Benefit Payment (administrative data),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",INCAP Total Personal Income (administrative data) (weekly),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",INCP Total Personal Income (weekly),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",INDP Industry of Employment,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",INGP Indigenous Status,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at LGA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at LGA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at POA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at POA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at SA1 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at SA1 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at SA2 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at SA2 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at SAL Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Deciles at SAL Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Quartiles at LGA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Quartiles at POA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Quartiles at SA1 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Quartiles at SA2 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSAD Quartiles at SAL Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at LGA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at LGA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at POA Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at POA Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at SA1 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at SA1 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at SA2 Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at SA2 Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at SAL Level (Area),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",IRSD Deciles at SAL Level (Pop),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",ISAP Main Source of Personal Income (administrative data),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Indigenous Structure (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",LANP Language Used at Home,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",LFFP Labour Force Participation Flag,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",LFHRP Labour Force Status and Hours Worked Not Stated,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",LFSP Labour Force Status,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",LTHP Type of Long-term Health Condition,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Local Government Areas (2021 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Local Government Areas (2022 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Local Government Areas of Usual Residence Five Years Ago,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Local Government Areas of Usual Residence One Year Ago,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Long-term Health Conditions,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Commonwealth Electoral Divisions (2021 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Greater Capital City Statistical Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Indigenous Structure (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Local Government Areas (2021 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Local Government Areas (2022 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Main Statistical Area Structure (Main ASGS) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Postal Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Remoteness Areas (National) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Remoteness Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Section of State/UCLs (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Significant Urban Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by State Electoral Divisions (2021 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by State Electoral Divisions (2022 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by State Electoral Divisions (2024 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MB by Suburbs and Localities (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MDCP Social Marital Status,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MSTP Registered Marital Status,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",MTWP Method of Travel to Work,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Main Statistical Area Structure (Main ASGS) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",National Reporting Indicators,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Natural Resource Management Regions (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Need for Assistance,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",OCCEV1P Occupation Experimental Update Version 1,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",OCCP Occupation,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",OCSKEV1P Occupation Skill Level Experimental Update Version 1,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",OCSKP Occupation Skill Level,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",PUR1P Place of Usual Residence One Year Ago,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",PUR5P Place of Usual Residence Five Years Ago,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Postal Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Primary Health Networks (2017 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Primary Health Networks (2023 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",QALFP Non-School Qualification: Field of Study,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",QALLP Non-School Qualification: Level of Education,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at LGA Level (Area),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at LGA Level (Population),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at POA Level (Area),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at POA Level (Population),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at SA1 Level (Area),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at SA1 Level (Population),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at SA2 Level (Area),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at SA2 Level (Population),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at SAL Level (Area),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Quantiles at SAL Level (Population),No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",RELP Religious Affiliation,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",RLCP Relationship as Reported for Couples,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",RLGP Relationship in Household (including grandchildren),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",RLHP Relationship in Household,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",RLNP Residential Status in a Non-Private Dwelling,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",RPIP Family/Household Reference Person Indicator,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Relationships and Children,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Remoteness Areas (National) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Remoteness Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",SEIFA Quantiles (Area-based) WARNING: Area quantiles must be used with same geography type,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",SEIFA Quantiles (Population-based) WARNING: Population quantiles must be used with same geography type,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",SEXP Sex,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",SIEMP Status in Employment,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",SLPP Sex of Lone Parent,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",SPIP Spouse/Partner Indicator,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",STUP Full-Time/Part-Time Student Status,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",SVFP Level of Workforce Participation Survey Comparison Flag,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Section of State/Urban Centres and Localities (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Significant Urban Areas (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",State Electoral Divisions (2021 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",State Electoral Divisions (2022 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",State Electoral Divisions (2024 Boundaries) (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Suburbs and Localities (UR),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",TISP Number of Children Ever Born,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",TISRP Number of Children Ever Born (ranges),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",TYPP Type of Educational Institution Attending,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",TYSTAP Educational Institution: Attendee Status,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",UAI1P Usual Address One Year Ago Indicator,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",UAI5P Usual Address Five Years Ago Indicator,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",UAICP Usual Address Indicator Census Night,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",UEFP Unemployment Flag,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res","UNCAREP Unpaid Assistance to a Person with a Disability, Health Condition, or due to Old Age",Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Unpaid Work and Care,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",Usual Address and Internal Migration,No
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",VOLWP Voluntary Work for an Organisation or Group,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",WTNSQP People With or Working Towards a Non-school Qualification,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",YARP Year of Arrival in Australia,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",YARRP Year of Arrival in Australia (ranges),Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",YR12C2P Attainment of Year 12 or Certificate II or higher,Yes
+"10 Persons, Place of Usual Res","Persons, Place of Usual Res",YR12C3P Attainment of Year 12 or Certificate III or higher,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness","ADCP Australian Defence Force Service, detailed",Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ADFP Australian Defence Force Service,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",AGE10P Age in Ten Year Groups,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",AGE5P Age in Five Year Groups,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",AGEP Age,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ANC1P Ancestry 1st Response,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ANC2P Ancestry 2nd Response,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ANCP Ancestry Multi Response,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ANCRP Ancestry One or Two Response Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ASSNP Core Activity Need for Assistance,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Aboriginal and Torres Strait Islander Peoples,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Age and Sex,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Australia (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Australia (UR),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Australian Defence Force Service,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",BEDD Number of Bedrooms in Private Dwelling,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",BEDRD Number of Bedrooms in Private Dwelling (ranges),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",BPFP Country of Birth of Mother,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",BPLP Country of Birth of Person,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",BPMP Country of Birth of Father,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",BPPP Country of Birth of Parents,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CALTHD Count of Adults (15 years and over) with Selected Long-term Health Condition(s) in Household,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CCLTHD Count of Children with Selected Long-term Health Condition(s) in Household,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CHCAREP Unpaid Child Care,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CITP Australian Citizenship,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CLTHP Count of Selected Long-term Health Conditions,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COARASP Whether has Arthritis and Asthma,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COARDBP Whether has Arthritis and Diabetes,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COARHDP Whether has Arthritis and Heart Disease,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COARMHP Whether has Arthritis and Mental Health Condition,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COASHDP Whether has Asthma and Heart Disease,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COASLCP Whether has Asthma and Lung Condition,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COCNHDP Whether has Cancer and Heart Disease,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CODBHDP Whether has Diabetes and Heart Disease,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CODBKDP Whether has Diabetes and Kidney Disease,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CPAD Count of Persons Temporarily Absent from Household,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CPLTHD Count of Persons with Selected Long-term Health Condition(s) in Household,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CPLTHRD Count of Persons with Selected Long-term Health Condition(s) in Household (ranges),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CTGP Child Type (including grandchildren),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",CTPP Child Type,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Commonwealth Electoral Divisions (2024 Boundaries) (EN) - See note ->,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Cultural Diversity,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",DLOD Dwelling Location,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",DOMP Unpaid Domestic Work: Number of Hours,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",DWTD Dwelling Type,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Distance and Method of Travel to Work,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Dwelling and Household Characteristics,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness","EETP Engagement in Employment, Education and Training",Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ENGLP Proficiency in Spoken English,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Education and Qualifications,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Employment and Income,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",GNGP Public/Private Sector,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Geographical Areas (Usual Residence),No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Greater Capital City Statistical Areas (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HARTP Whether has Arthritis,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HASTP Whether has Asthma,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HCANP Whether has Cancer (including remission),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HDEMP Whether has Dementia (including Alzheimer's),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HEAP Level of Highest Educational Attainment,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HHCD Household Composition,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HIDD Household Income Derivation Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HIED Equivalised Total Household Income (weekly),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HINASD Total Household Income as Stated (weekly),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HIND Total Household Income (weekly),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HKIDP Whether has Kidney Disease,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HLTHP Whether has One or more Long-term Health Condition(s),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HOLHP Whether has Other Long-term Health Condition(s),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HOSD Housing Suitability,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HRSP Hours Worked,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HRWRP Hours Worked (ranges),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HSCP Highest Year of School Completed,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",HSTRP Whether has had a Stroke,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Health,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Health Comorbidities,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Homelessness Estimates,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Household Income and Housing Costs,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IEO Deciles at SA1 Level (Area),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IER Deciles at SA1 Level (Area),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IFAGEP Imputation Flag for Age,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IFMSTP Imputation Flag for Registered Marital Status,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IFNMFD Imputation Flag for Number of Males and Females in Dwelling,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IFPURP Imputation Flag for Place of Usual Residence,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IFSEXP Imputation Flag for Sex,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IGAP Main Type of Personal Government Benefit Payment (administrative data),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",INCAP Total Personal Income (administrative data) (weekly),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",INCP Total Personal Income (weekly),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",INDP Industry of Employment,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",INGDWTD Indigenous Household Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",INGP Indigenous Status,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IRSAD Deciles at SA1 Level (Area),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",IRSD Deciles at SA1 Level (Area),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",ISAP Main Source of Personal Income (administrative data),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Indigenous Structure (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",LANP Language Used at Home,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",LFHRP Labour Force Status and Hours Worked Not Stated,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",LFSP Labour Force Status,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",LLDD Landlord Type,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",LTHP Type of Long-term Health Condition,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Local Government Areas (2021 Boundaries) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Local Government Areas (2022 Boundaries) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Long-term Health Conditions,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",MAID Mortgage Affordability Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",MDCP Social Marital Status,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",MRERD Mortgage Repayments (monthly) Ranges,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",MSTP Registered Marital Status,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",MTWP Method of Travel to Work,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",MV1D Household One Year Mobility Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",MV5D Household Five Year Mobility Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Main Statistical Area Structure (Main ASGS) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Main Statistical Area Structure (Main ASGS) (UR),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",NPDD Type of Non-Private Dwelling,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",NPRD Number of Persons Usually Resident in Dwelling,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Need for Assistance,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",OCCP Occupation,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",OCSKP Occupation Skill Level,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",OPGP Homelessness Operational Groups,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",PUR1P Place of Usual Residence One Year Ago,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",PUR5P Place of Usual Residence Five Years Ago,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Persons in Household with a Long-term Health Condition,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",QALFP Non-School Qualification: Field of Study,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",QALLP Non-School Qualification: Level of Education,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Quantiles at SA1 Level (Area),No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",RAID Rent Affordability Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",RELP Religious Affiliation,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",RLHP Relationship in Household,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",RLNP Residential Status in a Non-Private Dwelling,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",RNTRD Rent (weekly) Ranges,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Relationships and Children,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Remoteness Areas (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Remoteness Areas (National) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",SEIFA Quantiles (Area-based),No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",SEXP Sex,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",SIEMP Status in Employment,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",STRD Dwelling Structure,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",STUP Full-Time/Part-Time Student Status,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Section of State (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",State Electoral Divisions (2021 Boundaries) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",State Electoral Divisions (2022 Boundaries) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",State Electoral Divisions (2024 Boundaries) (EN),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",TEND Tenure Type,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",TENLLD Tenure and Landlord Type,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",TYPP Type of Educational Institution Attending,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",TYSTAP Educational Institution: Attendee Status,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",UAI1P Usual Address One Year Ago Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",UAI5P Usual Address Five Years Ago Indicator,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",UAICP Usual Address Indicator Census Night,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness","UNCAREP Unpaid Assistance to a Person with a Disability, Health Condition, or due to Old Age",Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Unpaid Work and Care,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",Usual Address and Internal Migration,No
+"11 Persons, Est Homelessness","Persons, Est Homelessness",VEHD Number of Motor Vehicles,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",VEHRD Number of Motor Vehicles (ranges),Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",VOLWP Voluntary Work for an Organisation or Group,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",YARP Year of Arrival in Australia,Yes
+"11 Persons, Est Homelessness","Persons, Est Homelessness",YARRP Year of Arrival in Australia (ranges),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",ADFP Australian Defence Force Service,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",AGE10P Age in Ten Year Groups,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",AGE5P Age in Five Year Groups,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",AGEP Age,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",ASSNP Core Activity Need for Assistance,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Aboriginal and Torres Strait Islander Peoples,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Age and Sex,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Australia (POW),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Australia (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Australian Defence Force Service,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Australian Drainage Divisions (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",BPLP Country of Birth of Person,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",C3SP Attainment of Certificate III or higher or Working Towards a Non-School Qualification,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",CDPP Community Development Program Participation,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",CHCAREP Unpaid Child Care,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",CLTHP Count of Selected Long-term Health Conditions,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COARASP Whether has Arthritis and Asthma,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COARDBP Whether has Arthritis and Diabetes,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COARHDP Whether has Arthritis and Heart Disease,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COARMHP Whether has Arthritis and Mental Health Condition,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COASHDP Whether has Asthma and Heart Disease,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COASLCP Whether has Asthma and Lung Condition,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COCNHDP Whether has Cancer and Heart Disease,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",CODBHDP Whether has Diabetes and Heart Disease,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",CODBKDP Whether has Diabetes and Kidney Disease,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Commonwealth Electoral Divisions (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Cultural Diversity,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",DOMP Unpaid Domestic Work: Number of Hours,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",DTWP Distance to Work (ranges),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Distance and Method of Travel to Work,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio","EETP Engagement in Employment, Education and Training",Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",EMFP Employment Flag,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",EMPP Number of Employees,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",ENGLP Proficiency in Spoken English,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Education and Qualifications,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Employment and Income,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Empowered Communities (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",GNGP Public/Private Sector,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Geographical Areas (Place of Work),No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Greater Capital City Statistical Areas (POW),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Greater Capital City Statistical Areas (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HARTP Whether has Arthritis,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HASTP Whether has Asthma,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HCANP Whether has Cancer (including remission),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HDEMP Whether has Dementia (including Alzheimer's),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HEAP Level of Highest Educational Attainment,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HKIDP Whether has Kidney Disease,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HLTHP Whether has One or more Long-term Health Condition(s),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HOLHP Whether has Other Long-term Health Condition(s),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HRWRP Hours Worked (ranges),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HSCP Highest Year of School Completed,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",HSTRP Whether has had a Stroke,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Health,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Health Comorbidities,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",IFAGEP Imputation Flag for Age,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",IFDTWP Imputed Distance to Work,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",IFMSTP Imputation Flag for Registered Marital Status,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",IFPOWP Imputation Flag for Place of Work,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",IFSEXP Imputation Flag for Sex,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",INCP Total Personal Income (weekly),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",INDP Industry of Employment,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",INGP Indigenous Status,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Indigenous Structure (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",LANP Language Used at Home,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",LFFP Labour Force Participation Flag,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",LFHRP Labour Force Status and Hours Worked Not Stated,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",LFSP Labour Force Status,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",LTHP Type of Long-term Health Condition,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Local Government Areas (2021 Boundaries) (POW),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Local Government Areas (2021 Boundaries) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Local Government Areas (2022 Boundaries) (POW),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Local Government Areas (2022 Boundaries) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Long-term Health Conditions,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",MDCP Social Marital Status,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",MSTP Registered Marital Status,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",MTW06P Method of Travel to Work (6 travel modes),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",MTW15P Method of Travel to Work (15 travel modes),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",MTWP Method of Travel to Work,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Main Statistical Area Structure (Main ASGS) (POW),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Main Statistical Area Structure (Main ASGS) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",National Reporting Indicators,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Natural Resource Management Regions (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Need for Assistance,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",OCCEV1P Occupation Experimental Update Version 1,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",OCCP Occupation,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",OCSKEV1P Occupation Skill Level Experimental Update Version 1,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",OCSKP Occupation Skill Level,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Postal Areas (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",QALFP Non-School Qualification: Field of Study,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",QALLP Non-School Qualification: Level of Education,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",RLHP Relationship in Household,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Relationships and Children,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Remoteness Areas (National) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Remoteness Areas (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SA1 by Greater Capital City Statistical Areas (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SA1 by Indigenous Structure (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SA1 by Main Statistical Area Structure (Main ASGS) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SA1 by Remoteness Areas (National) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SA1 by Remoteness Areas (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SA1 by Section of State/UCLs (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SA1 by Significant Urban Areas (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SEXP Sex,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SIEMP Status in Employment,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",STUP Full-Time/Part-Time Student Status,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",SVFP Level of Workforce Participation Survey Comparison Flag,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Section of State/Urban Centres and Localities (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Significant Urban Areas (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",State Electoral Divisions (2021 Boundaries) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",State Electoral Divisions (2022 Boundaries) (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Suburbs and Localities (UR),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",TYPP Type of Educational Institution Attending,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",TYSTAP Educational Institution: Attendee Status,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",UEFP Unemployment Flag,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio","UNCAREP Unpaid Assistance to a Person with a Disability, Health Condition, or due to Old Age",Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",Unpaid Work and Care,No
+"2 Employment, Income & Educatio","Employment, Income & Educatio",VOLWP Voluntary Work for an Organisation or Group,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",WTNSQP People With or Working Towards a Non-school Qualification,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",YARRP Year of Arrival in Australia (ranges),Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",YR12C2P Attainment of Year 12 or Certificate II or higher,Yes
+"2 Employment, Income & Educatio","Employment, Income & Educatio",YR12C3P Attainment of Year 12 or Certificate III or higher,Yes
+3 Internal Migration,Internal Migration,ADFP Australian Defence Force Service,Yes
+3 Internal Migration,Internal Migration,AGE10P Age in Ten Year Groups,Yes
+3 Internal Migration,Internal Migration,AGE5P Age in Five Year Groups,Yes
+3 Internal Migration,Internal Migration,AGEP Age,Yes
+3 Internal Migration,Internal Migration,ANC1P Ancestry 1st Response,Yes
+3 Internal Migration,Internal Migration,ANC2P Ancestry 2nd Response,Yes
+3 Internal Migration,Internal Migration,ANCP Ancestry Multi Response,Yes
+3 Internal Migration,Internal Migration,ANCRP Ancestry One or Two Response Indicator,Yes
+3 Internal Migration,Internal Migration,Aboriginal and Torres Strait Islander Peoples,No
+3 Internal Migration,Internal Migration,Age and Sex,No
+3 Internal Migration,Internal Migration,Australia (UR),Yes
+3 Internal Migration,Internal Migration,Australian Defence Force Service,No
+3 Internal Migration,Internal Migration,Australian Drainage Divisions (UR),Yes
+3 Internal Migration,Internal Migration,BPFP Country of Birth of Mother,Yes
+3 Internal Migration,Internal Migration,BPLP Country of Birth of Person,Yes
+3 Internal Migration,Internal Migration,BPMP Country of Birth of Father,Yes
+3 Internal Migration,Internal Migration,BPPP Country of Birth of Parents,Yes
+3 Internal Migration,Internal Migration,CHCAREP Unpaid Child Care,Yes
+3 Internal Migration,Internal Migration,CITP Australian Citizenship,Yes
+3 Internal Migration,Internal Migration,CLTHP Count of Selected Long-term Health Conditions,Yes
+3 Internal Migration,Internal Migration,COARASP Whether has Arthritis and Asthma,Yes
+3 Internal Migration,Internal Migration,COARDBP Whether has Arthritis and Diabetes,Yes
+3 Internal Migration,Internal Migration,COARHDP Whether has Arthritis and Heart Disease,Yes
+3 Internal Migration,Internal Migration,COARMHP Whether has Arthritis and Mental Health Condition,Yes
+3 Internal Migration,Internal Migration,COASHDP Whether has Asthma and Heart Disease,Yes
+3 Internal Migration,Internal Migration,COASLCP Whether has Asthma and Lung Condition,Yes
+3 Internal Migration,Internal Migration,COCNHDP Whether has Cancer and Heart Disease,Yes
+3 Internal Migration,Internal Migration,CODBHDP Whether has Diabetes and Heart Disease,Yes
+3 Internal Migration,Internal Migration,CODBKDP Whether has Diabetes and Kidney Disease,Yes
+3 Internal Migration,Internal Migration,COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+3 Internal Migration,Internal Migration,COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+3 Internal Migration,Internal Migration,COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+3 Internal Migration,Internal Migration,Commonwealth Electoral Divisions (UR),Yes
+3 Internal Migration,Internal Migration,Cultural Diversity,No
+3 Internal Migration,Internal Migration,DOMP Unpaid Domestic Work: Number of Hours,Yes
+3 Internal Migration,Internal Migration,ENGLP Proficiency in Spoken English,Yes
+3 Internal Migration,Internal Migration,Education and Qualifications,No
+3 Internal Migration,Internal Migration,Employment and Income,No
+3 Internal Migration,Internal Migration,Empowered Communities (UR),Yes
+3 Internal Migration,Internal Migration,Greater Capital City Statistical Areas (UR),Yes
+3 Internal Migration,Internal Migration,HARTP Whether has Arthritis,Yes
+3 Internal Migration,Internal Migration,HASTP Whether has Asthma,Yes
+3 Internal Migration,Internal Migration,HCANP Whether has Cancer (including remission),Yes
+3 Internal Migration,Internal Migration,HDEMP Whether has Dementia (including Alzheimer's),Yes
+3 Internal Migration,Internal Migration,HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+3 Internal Migration,Internal Migration,HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+3 Internal Migration,Internal Migration,HKIDP Whether has Kidney Disease,Yes
+3 Internal Migration,Internal Migration,HLTHP Whether has One or more Long-term Health Condition(s),Yes
+3 Internal Migration,Internal Migration,HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+3 Internal Migration,Internal Migration,HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+3 Internal Migration,Internal Migration,HOLHP Whether has Other Long-term Health Condition(s),Yes
+3 Internal Migration,Internal Migration,HSTRP Whether has had a Stroke,Yes
+3 Internal Migration,Internal Migration,Health,No
+3 Internal Migration,Internal Migration,Health Comorbidities,No
+3 Internal Migration,Internal Migration,IFAGEP Imputation Flag for Age,Yes
+3 Internal Migration,Internal Migration,IFPURP Imputation Flag for Place of Usual Residence,Yes
+3 Internal Migration,Internal Migration,IFSEXP Imputation Flag for Sex,Yes
+3 Internal Migration,Internal Migration,INCP Total Personal Income (weekly),Yes
+3 Internal Migration,Internal Migration,INDP Industry of Employment,Yes
+3 Internal Migration,Internal Migration,INGP Indigenous Status,Yes
+3 Internal Migration,Internal Migration,Indigenous Structure (UR),Yes
+3 Internal Migration,Internal Migration,LANP Language Used at Home,Yes
+3 Internal Migration,Internal Migration,LFSP Labour Force Status,Yes
+3 Internal Migration,Internal Migration,LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+3 Internal Migration,Internal Migration,LTHP Type of Long-term Health Condition,Yes
+3 Internal Migration,Internal Migration,Local Government Areas (2021 Boundaries) (UR),Yes
+3 Internal Migration,Internal Migration,Local Government Areas (2022 Boundaries) (UR),Yes
+3 Internal Migration,Internal Migration,Local Government Areas of Usual Residence Five Years Ago,Yes
+3 Internal Migration,Internal Migration,Local Government Areas of Usual Residence One Year Ago,Yes
+3 Internal Migration,Internal Migration,Long-term Health Conditions,No
+3 Internal Migration,Internal Migration,Main Statistical Area Structure (Main ASGS) (UR),Yes
+3 Internal Migration,Internal Migration,Natural Resource Management Regions (UR),Yes
+3 Internal Migration,Internal Migration,OCCEV1P Occupation Experimental Update Version 1,Yes
+3 Internal Migration,Internal Migration,OCCP Occupation,No
+3 Internal Migration,Internal Migration,OCSKEV1P Occupation Skill Level Experimental Update Version 1,Yes
+3 Internal Migration,Internal Migration,OCSKP Occupation Skill Level,Yes
+3 Internal Migration,Internal Migration,PUR1P Place of Usual Residence One Year Ago,Yes
+3 Internal Migration,Internal Migration,PUR5P Place of Usual Residence Five Years Ago,Yes
+3 Internal Migration,Internal Migration,Postal Areas (UR),Yes
+3 Internal Migration,Internal Migration,QALLP Non-School Qualification: Level of Education,Yes
+3 Internal Migration,Internal Migration,RELP Religious Affiliation,Yes
+3 Internal Migration,Internal Migration,RLHP Relationship in Household,Yes
+3 Internal Migration,Internal Migration,Relationships and Children,No
+3 Internal Migration,Internal Migration,Remoteness Areas (National) (UR),Yes
+3 Internal Migration,Internal Migration,Remoteness Areas (UR),Yes
+3 Internal Migration,Internal Migration,SA1 by Greater Capital City Statistical Areas (UR),Yes
+3 Internal Migration,Internal Migration,SA1 by Indigenous Structure (UR),Yes
+3 Internal Migration,Internal Migration,SA1 by Main Statistical Area Structure (Main ASGS) (UR),Yes
+3 Internal Migration,Internal Migration,SA1 by Remoteness Areas (National) (UR),Yes
+3 Internal Migration,Internal Migration,SA1 by Remoteness Areas (UR),Yes
+3 Internal Migration,Internal Migration,SA1 by Section of State/UCLs (UR),Yes
+3 Internal Migration,Internal Migration,SA1 by Significant Urban Areas (UR),Yes
+3 Internal Migration,Internal Migration,SEXP Sex,Yes
+3 Internal Migration,Internal Migration,Section of State/Urban Centres and Localities (UR),Yes
+3 Internal Migration,Internal Migration,Significant Urban Areas (UR),Yes
+3 Internal Migration,Internal Migration,State Electoral Divisions (2021 Boundaries) (UR),Yes
+3 Internal Migration,Internal Migration,State Electoral Divisions (2022 Boundaries) (UR),Yes
+3 Internal Migration,Internal Migration,Suburbs and Localities (UR),Yes
+3 Internal Migration,Internal Migration,UAI1P Usual Address One Year Ago Indicator,Yes
+3 Internal Migration,Internal Migration,UAI5P Usual Address Five Years Ago Indicator,Yes
+3 Internal Migration,Internal Migration,UAICP Usual Address Indicator Census Night,Yes
+3 Internal Migration,Internal Migration,Unpaid Work and Care,No
+3 Internal Migration,Internal Migration,Usual Address and Internal Migration,No
+3 Internal Migration,Internal Migration,YARRP Year of Arrival in Australia (ranges),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Aboriginal and Torres Strait Islander Peoples,No
+4 Dwelling Characteristics,Dwelling Characteristics,Australia (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Australian Drainage Divisions (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,BEDRD Number of Bedrooms in Private Dwelling (ranges),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,CALTHD Count of Adults (15 years and over) with Selected Long-term Health Condition(s) in Household,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,CCLTHD Count of Children with Selected Long-term Health Condition(s) in Household,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,CPLTHD Count of Persons with Selected Long-term Health Condition(s) in Household,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,CPLTHRD Count of Persons with Selected Long-term Health Condition(s) in Household (ranges),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Commonwealth Electoral Divisions (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,DLOD Dwelling Location,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,DWTD Dwelling Type,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Dwelling and Household Characteristics,No
+4 Dwelling Characteristics,Dwelling Characteristics,Family Characteristics,No
+4 Dwelling Characteristics,Dwelling Characteristics,Family Characteristics and Composition,No
+4 Dwelling Characteristics,Dwelling Characteristics,Greater Capital City Statistical Areas (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,HCFMD Family Household Composition (Dwelling),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,HHCD Household Composition,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,HIND Total Household Income (weekly),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Health,No
+4 Dwelling Characteristics,Dwelling Characteristics,Household Income and Housing Costs,No
+4 Dwelling Characteristics,Dwelling Characteristics,IFNMFD Imputation Flag for Number of Males and Females in Dwelling,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,INGDWTD Indigenous Household Indicator,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Indigenous Structure (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,LLDD Landlord Type,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Local Government Areas (2021 Boundaries) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Local Government Areas (2022 Boundaries) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,MRERD Mortgage Repayments (monthly) Ranges,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,MV1D Household One Year Mobility Indicator,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,MV5D Household Five Year Mobility Indicator,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Main Statistical Area Structure (Main ASGS) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,NPDD Type of Non-Private Dwelling,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,NPRD Number of Persons Usually Resident in Dwelling,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Natural Resource Management Regions (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Persons in Household with a Long-term Health Condition,No
+4 Dwelling Characteristics,Dwelling Characteristics,Postal Areas (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,RNTRD Rent (weekly) Ranges,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Remoteness Areas (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Remoteness Areas (National) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,SA1 by Greater Capital City Statistical Areas (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,SA1 by Indigenous Structure (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,SA1 by Main Statistical Area Structure (Main ASGS) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,SA1 by Remoteness Areas (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,SA1 by Remoteness Areas (National) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,SA1 by Section of State/UCLs (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,SA1 by Significant Urban Areas (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,STRD Dwelling Structure,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Section of State/Urban Centres and Localities (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Significant Urban Areas (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,State Electoral Divisions (2021 Boundaries) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,State Electoral Divisions (2022 Boundaries) (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Suburbs and Localities (EN),Yes
+4 Dwelling Characteristics,Dwelling Characteristics,TEND Tenure Type,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,TENLLD Tenure and Landlord Type,Yes
+4 Dwelling Characteristics,Dwelling Characteristics,Usual Address and Internal Migration,No
+4 Dwelling Characteristics,Dwelling Characteristics,VEHRD Number of Motor Vehicles (ranges),Yes
+5 Family Characteristics,Family Characteristics,Aboriginal and Torres Strait Islander Peoples,No
+5 Family Characteristics,Family Characteristics,Australia (EN),Yes
+5 Family Characteristics,Family Characteristics,Australian Drainage Divisions (EN),Yes
+5 Family Characteristics,Family Characteristics,CACF Count of All Children in Family,Yes
+5 Family Characteristics,Family Characteristics,CDCAF Count of Dependent Children Under 15 in Family Temporarily Absent,Yes
+5 Family Characteristics,Family Characteristics,CDCF Count of Dependent Children in Family,Yes
+5 Family Characteristics,Family Characteristics,CDCUF Count of Dependent Children Under 15 in Family,Yes
+5 Family Characteristics,Family Characteristics,CDSAF Count of Dependent Students (15-24 years) in Family Temporarily Absent,Yes
+5 Family Characteristics,Family Characteristics,CDSF Count of Dependent Students (15-24 years) in Family,Yes
+5 Family Characteristics,Family Characteristics,CNDAF Count of Non-Dependent Children in Family Temporarily Absent,Yes
+5 Family Characteristics,Family Characteristics,CNDCF Count of Non-Dependent Children in Family,Yes
+5 Family Characteristics,Family Characteristics,CPAF Count of Persons Temporarily Absent from Family,Yes
+5 Family Characteristics,Family Characteristics,CPRF Count of Persons in Family,Yes
+5 Family Characteristics,Family Characteristics,Commonwealth Electoral Divisions (EN),Yes
+5 Family Characteristics,Family Characteristics,Employment and Income,No
+5 Family Characteristics,Family Characteristics,FBLF Family Blending,Yes
+5 Family Characteristics,Family Characteristics,FIDF Family Income Derivation Indicator,Yes
+5 Family Characteristics,Family Characteristics,FINASF Total Family Income as Stated (weekly),Yes
+5 Family Characteristics,Family Characteristics,FINF Total Family Income (weekly),Yes
+5 Family Characteristics,Family Characteristics,FMCF Family Composition,Yes
+5 Family Characteristics,Family Characteristics,FNOF Family Number,Yes
+5 Family Characteristics,Family Characteristics,FRLF Relationship Between Families,Yes
+5 Family Characteristics,Family Characteristics,Family Characteristics,No
+5 Family Characteristics,Family Characteristics,Family Characteristics and Composition,No
+5 Family Characteristics,Family Characteristics,Family Counts,No
+5 Family Characteristics,Family Characteristics,Family Income,No
+5 Family Characteristics,Family Characteristics,Greater Capital City Statistical Areas (EN),Yes
+5 Family Characteristics,Family Characteristics,HCFMF Family Household Composition (Family),Yes
+5 Family Characteristics,Family Characteristics,INGF Aboriginal and Torres Strait Islander Family Indicator,Yes
+5 Family Characteristics,Family Characteristics,Indigenous Structure (EN),Yes
+5 Family Characteristics,Family Characteristics,LFSF Labour Force Status of Parents/Partners in Families,Yes
+5 Family Characteristics,Family Characteristics,Local Government Areas (2021 Boundaries) (EN),Yes
+5 Family Characteristics,Family Characteristics,Local Government Areas (2022 Boundaries) (EN),Yes
+5 Family Characteristics,Family Characteristics,Main Statistical Area Structure (Main ASGS) (EN),Yes
+5 Family Characteristics,Family Characteristics,Natural Resource Management Regions (EN),Yes
+5 Family Characteristics,Family Characteristics,Postal Areas (EN),Yes
+5 Family Characteristics,Family Characteristics,Remoteness Areas (EN),Yes
+5 Family Characteristics,Family Characteristics,Remoteness Areas (National) (EN),Yes
+5 Family Characteristics,Family Characteristics,SA1 by Greater Capital City Statistical Areas (EN),Yes
+5 Family Characteristics,Family Characteristics,SA1 by Indigenous Structure (EN),Yes
+5 Family Characteristics,Family Characteristics,SA1 by Main Statistical Area Structure (Main ASGS) (EN),Yes
+5 Family Characteristics,Family Characteristics,SA1 by Remoteness Areas (EN),Yes
+5 Family Characteristics,Family Characteristics,SA1 by Remoteness Areas (National) (EN),Yes
+5 Family Characteristics,Family Characteristics,SA1 by Section of State/UCLs (EN),Yes
+5 Family Characteristics,Family Characteristics,SA1 by Significant Urban Areas (EN),Yes
+5 Family Characteristics,Family Characteristics,SPLF Location of Spouse,Yes
+5 Family Characteristics,Family Characteristics,SSCF Same-Sex Couple Indicator,Yes
+5 Family Characteristics,Family Characteristics,Section of State/Urban Centres and Localities (EN),Yes
+5 Family Characteristics,Family Characteristics,Significant Urban Areas (EN),Yes
+5 Family Characteristics,Family Characteristics,State Electoral Divisions (2021 Boundaries) (EN),Yes
+5 Family Characteristics,Family Characteristics,State Electoral Divisions (2022 Boundaries) (EN),Yes
+5 Family Characteristics,Family Characteristics,Suburbs and Localities (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Aboriginal and Torres Strait Islander Peoples,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Aged Care Planning Regions (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Australia (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Australian Drainage Divisions (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",BEDD Number of Bedrooms in Private Dwelling,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",BEDRD Number of Bedrooms in Private Dwelling (ranges),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",CALTHD Count of Adults (15 years and over) with Selected Long-term Health Condition(s) in Household,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",CCLTHD Count of Children with Selected Long-term Health Condition(s) in Household,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",CPAD Count of Persons Temporarily Absent from Household,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",CPLTHD Count of Persons with Selected Long-term Health Condition(s) in Household,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",CPLTHRD Count of Persons with Selected Long-term Health Condition(s) in Household (ranges),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Commonwealth Electoral Divisions (2024 Boundaries) (EN) - See note ->,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",DLOD Dwelling Location,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",DWTD Dwelling Type,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Dwelling and Household Characteristics,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Empowered Communities (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Family Characteristics,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Family Characteristics and Composition,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Greater Capital City Statistical Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HCFMD Family Household Composition (Dwelling),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HGAD Main Type of Household Government Benefit Payment (administrative data),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HHCD Household Composition,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HIAASD Total Household Income as Available (administrative data) (weekly),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HIDD Household Income Derivation Indicator,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HIED Equivalised Total Household Income (weekly),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HINAD Total Household Income (administrative data) (weekly),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HINASD Total Household Income as Stated (weekly),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HIND Total Household Income (weekly),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HOSD Housing Suitability,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",HSAD Main Source of Household Income (administrative data),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Health,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Household Income and Housing Costs,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at LGA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at LGA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at POA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at POA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at SA1 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at SA1 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at SA2 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at SA2 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at SAL Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IEO Deciles at SAL Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at LGA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at LGA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at POA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at POA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at SA1 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at SA1 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at SA2 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at SA2 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at SAL Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IER Deciles at SAL Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IFNMFD Imputation Flag for Number of Males and Females in Dwelling,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IHAD Quantiles (Household-based),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",INGDWTD Indigenous Household Indicator,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles (Household),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at LGA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at LGA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at POA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at POA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at SA1 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at SA1 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at SA2 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at SA2 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at SAL Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Deciles at SAL Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Quartiles (Household),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Quartiles at LGA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Quartiles at POA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Quartiles at SA1 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Quartiles at SA2 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSAD Quartiles at SAL Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at LGA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at LGA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at POA Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at POA Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at SA1 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at SA1 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at SA2 Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at SA2 Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at SAL Level (Area),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",IRSD Deciles at SAL Level (Pop),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Indigenous Structure (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",LLDD Landlord Type,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Local Government Areas (2021 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Local Government Areas (2022 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MAID Mortgage Affordability Indicator,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Greater Capital City Statistical Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Indigenous Structure (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Local Government Areas (2021 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Local Government Areas (2022 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Main Statistical Area Structure (Main ASGS) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Postal Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Remoteness Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Remoteness Areas (National) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Section of State/UCLs (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Significant Urban Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by State Electoral Divisions (2021 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by State Electoral Divisions (2022 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by State Electoral Divisions (2024 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MB by Suburbs and Localities (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MRED Mortgage Repayments (monthly) Dollar Values,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MRERD Mortgage Repayments (monthly) Ranges,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MV1D Household One Year Mobility Indicator,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",MV5D Household Five Year Mobility Indicator,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Main Statistical Area Structure (Main ASGS) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",NPDD Type of Non-Private Dwelling,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",NPRD Number of Persons Usually Resident in Dwelling,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Natural Resource Management Regions (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Persons in Household with a Long-term Health Condition,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Postal Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Primary Health Networks (2017 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Primary Health Networks (2023 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at LGA Level (Area),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at LGA Level (Population),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at POA Level (Area),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at POA Level (Population),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at SA1 Level (Area),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at SA1 Level (Population),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at SA2 Level (Area),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at SA2 Level (Population),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at SAL Level (Area),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Quantiles at SAL Level (Population),No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",RAID Rent Affordability Indicator,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",RNTD Rent (weekly) Dollar Values,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",RNTRD Rent (weekly) Ranges,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Remoteness Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Remoteness Areas (National) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",SEIFA Quantiles (Area-based) WARNING: Area quantiles must be used with same geography type,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",SEIFA Quantiles (Population-based) WARNING: Population quantiles must be used with same geography type,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",STRD Dwelling Structure,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Section of State/Urban Centres and Localities (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Significant Urban Areas (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",State Electoral Divisions (2021 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",State Electoral Divisions (2022 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",State Electoral Divisions (2024 Boundaries) (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Suburbs and Localities (EN),Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",TEND Tenure Type,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",TENLLD Tenure and Landlord Type,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",Usual Address and Internal Migration,No
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",VEHD Number of Motor Vehicles,Yes
+"6 Dwellings, Place of Enumerati","Dwellings, Place of Enumerati",VEHRD Number of Motor Vehicles (ranges),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over","ADCP Australian Defence Force Service, detailed",Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",ADFP Australian Defence Force Service,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",AGE10P Age in Ten Year Groups,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",AGE5P Age in Five Year Groups,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",AGEP Age,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",ANC1P Ancestry 1st Response,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",ANC2P Ancestry 2nd Response,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",ANCP Ancestry Multi Response,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",ASSNP Core Activity Need for Assistance,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Aboriginal and Torres Strait Islander Peoples,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Age and Sex,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Aged Care Planning Regions (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Aged Care Planning Regions (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Australia (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Australia (POW),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Australia (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Australian Defence Force Service,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Australian Drainage Divisions (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Australian Drainage Divisions (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",BPFP Country of Birth of Mother,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",BPLP Country of Birth of Person,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",BPMP Country of Birth of Father,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",BPPP Country of Birth of Parents,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",C3SP Attainment of Certificate III or higher or Working Towards a Non-School Qualification,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CDPP Community Development Program Participation,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CHCAREP Unpaid Child Care,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CITP Australian Citizenship,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CLTHP Count of Selected Long-term Health Conditions,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COARASP Whether has Arthritis and Asthma,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COARDBP Whether has Arthritis and Diabetes,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COARHDP Whether has Arthritis and Heart Disease,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COARMHP Whether has Arthritis and Mental Health Condition,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COASHDP Whether has Asthma and Heart Disease,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COASLCP Whether has Asthma and Lung Condition,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COCNHDP Whether has Cancer and Heart Disease,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CODBHDP Whether has Diabetes and Heart Disease,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CODBKDP Whether has Diabetes and Kidney Disease,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CTGP Child Type (including grandchildren),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",CTPP Child Type,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Commonwealth Electoral Divisions (2021 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Commonwealth Electoral Divisions (2024 Boundaries) (EN) - See note ->,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Commonwealth Electoral Divisions (2024 Boundaries) (UR) - See note ->,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Cultural Diversity,No
+"7 Persons, 15 years and over","Persons, 15 years and over",DOMP Unpaid Domestic Work: Number of Hours,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",DTWP Distance to Work (ranges),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Distance and Method of Travel to Work,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Dwelling and Household Characteristics,No
+"7 Persons, 15 years and over","Persons, 15 years and over","EETP Engagement in Employment, Education and Training",Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",EMFP Employment Flag,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",EMPP Number of Employees,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",ENGLP Proficiency in Spoken English,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Education and Qualifications,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Employment and Income,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Empowered Communities (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Empowered Communities (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",FPIP Parent Indicator,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",GNGP Public/Private Sector,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Geographical Areas (Place of Work),No
+"7 Persons, 15 years and over","Persons, 15 years and over",Geographical Areas (Usual Residence),No
+"7 Persons, 15 years and over","Persons, 15 years and over",Greater Capital City Statistical Areas (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Greater Capital City Statistical Areas (POW),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Greater Capital City Statistical Areas (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HARTP Whether has Arthritis,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HASTP Whether has Asthma,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HCANP Whether has Cancer (including remission),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HDEMP Whether has Dementia (including Alzheimer's),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HEAP Level of Highest Educational Attainment,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HKIDP Whether has Kidney Disease,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HLTHP Whether has One or more Long-term Health Condition(s),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HOLHP Whether has Other Long-term Health Condition(s),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HRSP Hours Worked,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HRWRP Hours Worked (ranges),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HSCP Highest Year of School Completed,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",HSTRP Whether has had a Stroke,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Health,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Health Comorbidities,No
+"7 Persons, 15 years and over","Persons, 15 years and over",IFAGEP Imputation Flag for Age,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",IFDTWP Imputed Distance to Work,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",IFMSTP Imputation Flag for Registered Marital Status,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",IFPOWP Imputation Flag for Place of Work,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",IFPURP Imputation Flag for Place of Usual Residence,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",IFSEXP Imputation Flag for Sex,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",IGAP Main Type of Personal Government Benefit Payment (administrative data),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",INCAP Total Personal Income (administrative data) (weekly),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",INCP Total Personal Income (weekly),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",INDP Industry of Employment,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",INGP Indigenous Status,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",ISAP Main Source of Personal Income (administrative data),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Indigenous Structure (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Indigenous Structure (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",LANP Language Used at Home,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",LFFP Labour Force Participation Flag,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",LFHRP Labour Force Status and Hours Worked Not Stated,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",LFSP Labour Force Status,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",LTHP Type of Long-term Health Condition,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas (2021 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas (2021 Boundaries) (POW),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas (2021 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas (2022 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas (2022 Boundaries) (POW),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas (2022 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas of Usual Residence Five Years Ago,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Local Government Areas of Usual Residence One Year Ago,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Long-term Health Conditions,No
+"7 Persons, 15 years and over","Persons, 15 years and over",MDCP Social Marital Status,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",MSTP Registered Marital Status,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",MTW06P Method of Travel to Work (6 travel modes),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",MTW15P Method of Travel to Work (15 travel modes),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",MTWP Method of Travel to Work,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Main Statistical Area Structure (Main ASGS) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Main Statistical Area Structure (Main ASGS) (POW),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Main Statistical Area Structure (Main ASGS) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",National Reporting Indicators,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Natural Resource Management Regions (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Natural Resource Management Regions (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Need for Assistance,No
+"7 Persons, 15 years and over","Persons, 15 years and over",OCCEV1P Occupation Experimental Update Version 1,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",OCCP Occupation,No
+"7 Persons, 15 years and over","Persons, 15 years and over",OCSKEV1P Occupation Skill Level Experimental Update Version 1,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",OCSKP Occupation Skill Level,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",PUR1P Place of Usual Residence One Year Ago,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",PUR5P Place of Usual Residence Five Years Ago,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Postal Areas (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Postal Areas (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Primary Health Networks (2017 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Primary Health Networks (2017 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Primary Health Networks (2023 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Primary Health Networks (2023 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",QALFP Non-School Qualification: Field of Study,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",QALLP Non-School Qualification: Level of Education,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",RELP Religious Affiliation,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",RLCP Relationship as Reported for Couples,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",RLGP Relationship in Household (including grandchildren),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",RLHP Relationship in Household,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",RLNP Residential Status in a Non-Private Dwelling,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",RPIP Family/Household Reference Person Indicator,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Relationships and Children,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Remoteness Areas (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Remoteness Areas (National) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Remoteness Areas (National) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Remoteness Areas (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Greater Capital City Statistical Areas (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Greater Capital City Statistical Areas (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Indigenous Structure (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Indigenous Structure (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Main Statistical Area Structure (Main ASGS) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Main Statistical Area Structure (Main ASGS) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Remoteness Areas (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Remoteness Areas (National) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Remoteness Areas (National) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Remoteness Areas (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Section of State/UCLs (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Section of State/UCLs (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Significant Urban Areas (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SA1 by Significant Urban Areas (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SEXP Sex,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SIEMP Status in Employment,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SLPP Sex of Lone Parent,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SPIP Spouse/Partner Indicator,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",STUP Full-Time/Part-Time Student Status,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",SVFP Level of Workforce Participation Survey Comparison Flag,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Section of State/Urban Centres and Localities (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Section of State/Urban Centres and Localities (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Significant Urban Areas (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Significant Urban Areas (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",State Electoral Divisions (2021 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",State Electoral Divisions (2021 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",State Electoral Divisions (2022 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",State Electoral Divisions (2022 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",State Electoral Divisions (2024 Boundaries) (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",State Electoral Divisions (2024 Boundaries) (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Suburbs and Localities (EN),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Suburbs and Localities (UR),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",TISP Number of Children Ever Born,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",TISRP Number of Children Ever Born (ranges),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",TYPP Type of Educational Institution Attending,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",TYSTAP Educational Institution: Attendee Status,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",UAI1P Usual Address One Year Ago Indicator,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",UAI5P Usual Address Five Years Ago Indicator,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",UAICP Usual Address Indicator Census Night,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",UEFP Unemployment Flag,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over","UNCAREP Unpaid Assistance to a Person with a Disability, Health Condition, or due to Old Age",Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",Unpaid Work and Care,No
+"7 Persons, 15 years and over","Persons, 15 years and over",Usual Address and Internal Migration,No
+"7 Persons, 15 years and over","Persons, 15 years and over",VOLWP Voluntary Work for an Organisation or Group,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",WTNSQP People With or Working Towards a Non-school Qualification,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",YARP Year of Arrival in Australia,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",YARRP Year of Arrival in Australia (ranges),Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",YR12C2P Attainment of Year 12 or Certificate II or higher,Yes
+"7 Persons, 15 years and over","Persons, 15 years and over",YR12C3P Attainment of Year 12 or Certificate III or higher,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Aboriginal and Torres Strait Islander Peoples,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Aged Care Planning Regions (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Australia (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Australian Drainage Divisions (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",BEDD Number of Bedrooms in Private Dwelling,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",BEDRD Number of Bedrooms in Private Dwelling (ranges),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CACF Count of All Children in Family,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CDCAF Count of Dependent Children Under 15 in Family Temporarily Absent,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CDCF Count of Dependent Children in Family,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CDCUF Count of Dependent Children Under 15 in Family,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CDSAF Count of Dependent Students (15-24 years) in Family Temporarily Absent,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CDSF Count of Dependent Students (15-24 years) in Family,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CNDAF Count of Non-Dependent Children in Family Temporarily Absent,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CNDCF Count of Non-Dependent Children in Family,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CPAD Count of Persons Temporarily Absent from Household,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CPAF Count of Persons Temporarily Absent from Family,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",CPRF Count of Persons in Family,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Commonwealth Electoral Divisions (2024 Boundaries) (EN) - See note ->,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",DLOD Dwelling Location,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",DWTD Dwelling Type,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Dwelling and Household Characteristics,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Employment and Income,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Empowered Communities (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FBLF Family Blending,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FGAF Main Type of Family Government Benefit Payment (administrative data),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FIAASF Total Family Income as Available (administrative data) (weekly),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FIDF Family Income Derivation Indicator,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FINAF Total Family Income (administrative data) (weekly),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FINASF Total Family Income as Stated (weekly),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FINF Total Family Income (weekly),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FMCF Family Composition,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FMGF Grandparent Families,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FNOF Family Number,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FRLF Relationship Between Families,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",FSAF Main Source of Family Income (administrative data),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Family Characteristics,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Family Characteristics and Composition,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Family Counts,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Family Income,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Greater Capital City Statistical Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HCFMD Family Household Composition (Dwelling),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HCFMF Family Household Composition (Family),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HHCD Household Composition,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HIDD Household Income Derivation Indicator,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HIED Equivalised Total Household Income (weekly),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HINASD Total Household Income as Stated (weekly),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HIND Total Household Income (weekly),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",HOSD Housing Suitability,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Household Income and Housing Costs,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at LGA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at LGA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at POA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at POA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at SA1 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at SA1 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at SA2 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at SA2 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at SAL Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IEO Deciles at SAL Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at LGA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at LGA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at POA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at POA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at SA1 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at SA1 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at SA2 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at SA2 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at SAL Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IER Deciles at SAL Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IFNMFD Imputation Flag for Number of Males and Females in Dwelling,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IHAD Quantiles (Household-based),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",INGDWTD Indigenous Household Indicator,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",INGF Aboriginal and Torres Strait Islander Family Indicator,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles (Household),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at LGA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at LGA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at POA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at POA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at SA1 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at SA1 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at SA2 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at SA2 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at SAL Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Deciles at SAL Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Quartiles (Household),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Quartiles at LGA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Quartiles at POA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Quartiles at SA1 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Quartiles at SA2 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSAD Quartiles at SAL Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at LGA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at LGA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at POA Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at POA Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at SA1 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at SA1 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at SA2 Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at SA2 Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at SAL Level (Area),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",IRSD Deciles at SAL Level (Pop),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Indigenous Structure (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",LFSF Labour Force Status of Parents/Partners in Families,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",LLDD Landlord Type,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Local Government Areas (2021 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Local Government Areas (2022 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Greater Capital City Statistical Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Indigenous Structure (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Local Government Areas (2021 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Local Government Areas (2022 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Main Statistical Area Structure (Main ASGS) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Postal Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Remoteness Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Remoteness Areas (National) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Section of State/UCLs (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Significant Urban Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by State Electoral Divisions (2021 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by State Electoral Divisions (2022 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by State Electoral Divisions (2024 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MB by Suburbs and Localities (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MRERD Mortgage Repayments (monthly) Ranges,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MV1D Household One Year Mobility Indicator,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",MV5D Household Five Year Mobility Indicator,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Main Statistical Area Structure (Main ASGS) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",NPDD Type of Non-Private Dwelling,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",NPRD Number of Persons Usually Resident in Dwelling,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Natural Resource Management Regions (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Postal Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Primary Health Networks (2017 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Primary Health Networks (2023 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at LGA Level (Area),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at LGA Level (Population),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at POA Level (Area),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at POA Level (Population),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at SA1 Level (Area),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at SA1 Level (Population),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at SA2 Level (Area),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at SA2 Level (Population),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at SAL Level (Area),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Quantiles at SAL Level (Population),No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",RNTRD Rent (weekly) Ranges,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Remoteness Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Remoteness Areas (National) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",SEIFA Quantiles (Area-based) WARNING: Area quantiles must be used with same geography type,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",SEIFA Quantiles (Population-based) WARNING: Population quantiles must be used with same geography type,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",SPLF Location of Spouse,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",SSCF Same-Sex Couple Indicator,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",STRD Dwelling Structure,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Section of State/Urban Centres and Localities (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Significant Urban Areas (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",State Electoral Divisions (2021 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",State Electoral Divisions (2022 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",State Electoral Divisions (2024 Boundaries) (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Suburbs and Localities (EN),Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",TEND Tenure Type,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",TENLLD Tenure and Landlord Type,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",Usual Address and Internal Migration,No
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",VEHD Number of Motor Vehicles,Yes
+"8 Families, Place of Enumeratio","Families, Place of Enumeratio",VEHRD Number of Motor Vehicles (ranges),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration","ADCP Australian Defence Force Service, detailed",Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",ADFP Australian Defence Force Service,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",AGE10P Age in Ten Year Groups,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",AGE5P Age in Five Year Groups,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",AGEP Age,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",ANC1P Ancestry 1st Response,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",ANC2P Ancestry 2nd Response,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",ANCP Ancestry Multi Response,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",ASSNP Core Activity Need for Assistance,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Aboriginal and Torres Strait Islander Peoples,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Age and Sex,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Aged Care Planning Regions (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Australia (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Australian Defence Force Service,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Australian Drainage Divisions (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",BEDD Number of Bedrooms in Private Dwelling,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",BEDRD Number of Bedrooms in Private Dwelling (ranges),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",BPFP Country of Birth of Mother,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",BPLP Country of Birth of Person,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",BPMP Country of Birth of Father,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",BPPP Country of Birth of Parents,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CACF Count of All Children in Family,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CDCAF Count of Dependent Children Under 15 in Family Temporarily Absent,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CDCF Count of Dependent Children in Family,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CDCUF Count of Dependent Children Under 15 in Family,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CDPP Community Development Program Participation,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CDSAF Count of Dependent Students (15-24 years) in Family Temporarily Absent,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CDSF Count of Dependent Students (15-24 years) in Family,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CHCAREP Unpaid Child Care,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CITP Australian Citizenship,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CLTHP Count of Selected Long-term Health Conditions,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CNDAF Count of Non-Dependent Children in Family Temporarily Absent,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CNDCF Count of Non-Dependent Children in Family,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COARASP Whether has Arthritis and Asthma,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COARDBP Whether has Arthritis and Diabetes,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COARHDP Whether has Arthritis and Heart Disease,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COARMHP Whether has Arthritis and Mental Health Condition,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COASHDP Whether has Asthma and Heart Disease,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COASLCP Whether has Asthma and Lung Condition,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COCNHDP Whether has Cancer and Heart Disease,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CODBHDP Whether has Diabetes and Heart Disease,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CODBKDP Whether has Diabetes and Kidney Disease,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COHDKDP Whether has Heart Disease and Kidney Disease,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COHDMHP Whether has Heart Disease and Mental Health Condition,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",COLCMHP Whether has Lung Condition and Mental Health Condition,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CPAD Count of Persons Temporarily Absent from Household,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CPAF Count of Persons Temporarily Absent from Family,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CPRF Count of Persons in Family,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CTGP Child Type (including grandchildren),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",CTPP Child Type,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Commonwealth Electoral Divisions (2024 Boundaries) (EN) - See note ->,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Cultural Diversity,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",DLOD Dwelling Location,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",DOMP Unpaid Domestic Work: Number of Hours,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",DWTD Dwelling Type,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Distance and Method of Travel to Work,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Dwelling and Household Characteristics,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration","EETP Engagement in Employment, Education and Training",Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",EMPP Number of Employees,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",ENGLP Proficiency in Spoken English,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Education and Qualifications,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Employment and Income,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Empowered Communities (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FBLF Family Blending,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FIDF Family Income Derivation Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FINASF Total Family Income as Stated (weekly),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FINF Total Family Income (weekly),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FMCF Family Composition,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FMGF Grandparent Families,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FNOF Family Number,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FPIP Parent Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",FRLF Relationship Between Families,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Family Characteristics,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Family Characteristics and Composition,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Family Counts,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Family Income,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",GNGP Public/Private Sector,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Greater Capital City Statistical Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HARTP Whether has Arthritis,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HASTP Whether has Asthma,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HCANP Whether has Cancer (including remission),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HCFMD Family Household Composition (Dwelling),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HCFMF Family Household Composition (Family),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HDEMP Whether has Dementia (including Alzheimer's),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HDIAP Whether has Diabetes (excluding Gestational Diabetes),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HEAP Level of Highest Educational Attainment,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HHCD Household Composition,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HHEDP Whether has Heart Disease (including Heart Attack or Angina),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HIDD Household Income Derivation Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HIED Equivalised Total Household Income (weekly),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HINASD Total Household Income as Stated (weekly),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HIND Total Household Income (weekly),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HKIDP Whether has Kidney Disease,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HLTHP Whether has One or more Long-term Health Condition(s),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HLUNP Whether has Lung Condition (including COPD and Emphysema),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HMHCP Whether has Mental Health Condition (including Depression or Anxiety),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HOLHP Whether has Other Long-term Health Condition(s),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HOSD Housing Suitability,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HRSP Hours Worked,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HRWRP Hours Worked (ranges),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HSCP Highest Year of School Completed,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",HSTRP Whether has had a Stroke,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Health,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Health Comorbidities,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Household Income and Housing Costs,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at LGA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at LGA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at POA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at POA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at SA1 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at SA1 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at SA2 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at SA2 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at SAL Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IEO Deciles at SAL Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at LGA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at LGA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at POA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at POA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at SA1 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at SA1 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at SA2 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at SA2 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at SAL Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IER Deciles at SAL Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IFAGEP Imputation Flag for Age,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IFMSTP Imputation Flag for Registered Marital Status,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IFNMFD Imputation Flag for Number of Males and Females in Dwelling,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IFSEXP Imputation Flag for Sex,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IGAP Main Type of Personal Government Benefit Payment (administrative data),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IHAD Quantiles (Household-based),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",INCAP Total Personal Income (administrative data) (weekly),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",INCP Total Personal Income (weekly),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",INDP Industry of Employment,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",INGDWTD Indigenous Household Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",INGF Aboriginal and Torres Strait Islander Family Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",INGP Indigenous Status,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles (Household),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at LGA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at LGA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at POA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at POA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at SA1 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at SA1 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at SA2 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at SA2 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at SAL Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Deciles at SAL Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Quartiles (Household),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Quartiles at LGA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Quartiles at POA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Quartiles at SA1 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Quartiles at SA2 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSAD Quartiles at SAL Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at LGA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at LGA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at POA Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at POA Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at SA1 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at SA1 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at SA2 Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at SA2 Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at SAL Level (Area),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",IRSD Deciles at SAL Level (Pop),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",ISAP Main Source of Personal Income (administrative data),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Indigenous Structure (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",LANP Language Used at Home,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",LFHRP Labour Force Status and Hours Worked Not Stated,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",LFSF Labour Force Status of Parents/Partners in Families,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",LFSP Labour Force Status,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",LLDD Landlord Type,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",LNGP Whether Reported Using an Aboriginal and/or Torres Strait Islander Language at Home,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",LTHP Type of Long-term Health Condition,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Local Government Areas (2021 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Local Government Areas (2022 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Long-term Health Conditions,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Commonwealth Electoral Divisions (2021 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Greater Capital City Statistical Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Indigenous Structure (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Local Government Areas (2021 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Local Government Areas (2022 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Main Statistical Area Structure (Main ASGS) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Postal Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Remoteness Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Remoteness Areas (National) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Section of State/UCLs (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Significant Urban Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by State Electoral Divisions (2021 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by State Electoral Divisions (2022 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by State Electoral Divisions (2024 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MB by Suburbs and Localities (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MDCP Social Marital Status,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MRERD Mortgage Repayments (monthly) Ranges,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MSTP Registered Marital Status,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MTWP Method of Travel to Work,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MV1D Household One Year Mobility Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",MV5D Household Five Year Mobility Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Main Statistical Area Structure (Main ASGS) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",NPDD Type of Non-Private Dwelling,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",NPRD Number of Persons Usually Resident in Dwelling,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Natural Resource Management Regions (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Need for Assistance,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",OCCEV1P Occupation Experimental Update Version 1,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",OCCP Occupation,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",OCSKEV1P Occupation Skill Level Experimental Update Version 1,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",OCSKP Occupation Skill Level,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Postal Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Primary Health Networks (2017 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Primary Health Networks (2023 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",QALFP Non-School Qualification: Field of Study,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",QALLP Non-School Qualification: Level of Education,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at LGA Level (Area),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at LGA Level (Population),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at POA Level (Area),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at POA Level (Population),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at SA1 Level (Area),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at SA1 Level (Population),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at SA2 Level (Area),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at SA2 Level (Population),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at SAL Level (Area),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Quantiles at SAL Level (Population),No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",RELP Religious Affiliation,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",RLCP Relationship as Reported for Couples,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",RLGP Relationship in Household (including grandchildren),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",RLHP Relationship in Household,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",RLNP Residential Status in a Non-Private Dwelling,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",RNTRD Rent (weekly) Ranges,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",RPIP Family/Household Reference Person Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Relationships and Children,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Remoteness Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Remoteness Areas (National) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SEIFA Quantiles (Area-based) WARNING: Area quantiles must be used with same geography type,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SEIFA Quantiles (Population-based) WARNING: Population quantiles must be used with same geography type,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SEXP Sex,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SIEMP Status in Employment,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SLPP Sex of Lone Parent,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SPIP Spouse/Partner Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SPLF Location of Spouse,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",SSCF Same-Sex Couple Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",STRD Dwelling Structure,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",STUP Full-Time/Part-Time Student Status,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Section of State/Urban Centres and Localities (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Significant Urban Areas (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",State Electoral Divisions (2021 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",State Electoral Divisions (2022 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",State Electoral Divisions (2024 Boundaries) (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Suburbs and Localities (EN),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",TEND Tenure Type,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",TENLLD Tenure and Landlord Type,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",TISP Number of Children Ever Born,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",TISRP Number of Children Ever Born (ranges),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",TYPP Type of Educational Institution Attending,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",TYSTAP Educational Institution: Attendee Status,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",UAI1P Usual Address One Year Ago Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",UAI5P Usual Address Five Years Ago Indicator,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",UAICP Usual Address Indicator Census Night,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration","UNCAREP Unpaid Assistance to a Person with a Disability, Health Condition, or due to Old Age",Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Unpaid Work and Care,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",Usual Address and Internal Migration,No
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",VEHD Number of Motor Vehicles,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",VEHRD Number of Motor Vehicles (ranges),Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",VOLWP Voluntary Work for an Organisation or Group,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",YARP Year of Arrival in Australia,Yes
+"9 Persons, Place of Enumeration","Persons, Place of Enumeration",YARRP Year of Arrival in Australia (ranges),Yes
